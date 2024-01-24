@@ -10,8 +10,7 @@ J'aime particulièrement le graphique design et le montage vidéo, ce sont les r
 
 
 ## Qu'est ce que cela m'apporte 
-Cela m'apporte le métier que j'aimerais faire grâce à la formation, de créer du contenu personnel comme une chaîne Youtube ou un podcast. L'intégration multimédia est un apprentissage qui peut me permettre de développer des compétences telles que la création du contenu ou la communication visuelle. 
-
+Cela m'apporte le métier que j'aimerais faire grâce à la formation, de créer du contenu personnel comme une chaîne Youtube ou un podcast. 
 
 
 
