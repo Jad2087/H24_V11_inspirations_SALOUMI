@@ -1,10 +1,9 @@
 # Jad Saloumi
 
-![photo] (photo_SL_J_Nnebe_Afflux_20231201.jpg)
 ![photo_SL_J_Nnebe_Afflux_20231201](https://github.com/Jad2087/H24_V11_inspirations_Saloumi/assets/142918288/3893192b-8624-4a0b-866d-41c5c07a34e0)
 
 
-Photo de moi via une installation de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, décembre 2023
+Photo de moi en classe le 24 janvier 2024
 
 
 ## **Intérêts dans le multimedia**
