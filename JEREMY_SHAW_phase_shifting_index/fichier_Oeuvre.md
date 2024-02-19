@@ -1,1 +1,1 @@
-## Mon expérience de l'exposition
+## Mon expérience durant l'exposition
