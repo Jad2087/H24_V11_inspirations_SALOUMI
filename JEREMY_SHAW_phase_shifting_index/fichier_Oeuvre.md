@@ -36,6 +36,7 @@ Le type d'installation est immersif, car c'est un concept technologique qui s’
 ![photos](photos/millieu_tableau_couleur.jpg)
 ## Mise en espace
 Pour la mise en espace, il y a trois écrans en arrière et quatre écrans devant. Le numéro quatre de l'écran est accroché sur le mur blanc. Les restes des canaux ne sont pas accrochés sur le mur, mais on peut voir l'arrière de ces écrans. Lors de l'exploration, il y avait suffisamment d'espace pour circuler et regarder la pièce en même temps.
+
 ![photos](photos/plan_exploration.JPG) 
 
 ## Composantes et techniques
