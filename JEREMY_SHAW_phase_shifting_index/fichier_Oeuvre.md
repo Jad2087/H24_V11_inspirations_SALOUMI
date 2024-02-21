@@ -31,6 +31,7 @@ Le type d'installation est simple, il y avait trois ecrans en arriere et quatre 
 L'oeuvre contient sept ecrans avec des projecteurs, des bancs et des sons pour chaque ecran. Il y avait trois ecrans en arriere et quatre ecrans devant. Le sol etait fait en tapis. Chaque ecran etait de la meme taille, la couleur des murs etait blanches et il y avait suffisament d'espace pour circuler. 
 
 ![photos](photos/plan_exploration.JPG) 
+
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
