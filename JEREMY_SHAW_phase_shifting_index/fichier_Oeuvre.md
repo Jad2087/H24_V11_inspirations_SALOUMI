@@ -8,7 +8,7 @@ Le lieu de mise en exposition est a la fonderie Darling.
 
 ## Type d'exposition
 Le type d'exposition est dans une salle qui n'est pas petit et qui n'est pas grand aussi, avec des projecteurs et des ecrans. 
-![photos](photos/arriere_salle.jpg) widht:100 height:100
+![photos](photos/arriere_salle.jpgwidht:100 height:100) 
 
 ## Date de la visite
 La date de la visite etait le 31 janvier 2024. 
