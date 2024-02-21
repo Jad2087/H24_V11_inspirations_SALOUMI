@@ -22,20 +22,20 @@ source: https://macm.org/expositions/jeremy-shaw/
 Le nom de l'artiste est Jeremy Shaw.
 
 source: https://macm.org/expositions/jeremy-shaw/
-## Anné de réalisation 
-L'anné de la réalisation est en 2020.
+## Année de réalisation 
+L'année de la réalisation est en 2020.
 
 source: https://macm.org/expositions/jeremy-shaw/
 ## Description de l'oeuvre
-L'installation vidéo de sept canaux avec des projecteurs, les sept écrans affichent des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont pris dans les formats de l’époque, ce qui veut dire du film 16 mm au VHS en passant par le Hi-8. 
+L'installation vidéo de sept canaux avec des projecteurs, les sept écrans affichent des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont prises dans les formats de l’époque, ce qui veut dire du film 16 mm au VHS en passant par le Hi-8.
 
 source: https://macm.org/expositions/jeremy-shaw/
 ## Type d'installation 
-Le type d'installation est immersive, car c'est un concept technologique qui s’appuie sur différents types de supports et de technologies pour plonger un groupe de personnes autre que leur réalité actuelle.
+Le type d'installation est immersif, car c'est un concept technologique qui s’appuie sur différents types de supports et de technologies pour plonger un groupe de personnes autre que leur réalité actuelle.
+
 
 ## Mise en espace
 Pour la mise en espace, il y a trois écrans en arrière et quatre écrans devant. Le numéro quatre de l'écran est accroché sur le mur blanc. Les restes des canaux ne sont pas accrochés sur le mur, mais on peut voir l'arrière de ces écrans. Lors de l'exploration, il y avait suffisamment d'espace pour circuler et regarder la pièce en même temps.
-
 ![photos](photos/plan_exploration.JPG) 
 
 ## Composantes et techniques
