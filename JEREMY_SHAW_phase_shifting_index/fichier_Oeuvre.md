@@ -27,7 +27,8 @@ L'anne de la realisation est en 2020.
 Le type d'installation est simple, il y avait trois ecrans en arriere et quatre ecrans devant. 
 
 ## Mise en espace
-L'oeuvre contient sept ecrans avec des projecteurs, des bancs et des sons pour chaque ecran. Le sol etait fait en tapis. Chaque ecran etait de la meme taille, la couleur des murs etait blanches et le plafond etait fait en 
+L'oeuvre contient sept ecrans avec des projecteurs, des bancs et des sons pour chaque ecran. Le sol etait fait en tapis. Chaque ecran etait de la meme taille, la couleur des murs etait blanches et le plafond etait fait en.  
+![photos](photos/plan_exploration.JPG) 
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
