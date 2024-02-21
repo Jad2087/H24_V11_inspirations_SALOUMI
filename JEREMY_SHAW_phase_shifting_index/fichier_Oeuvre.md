@@ -15,6 +15,7 @@ Le type d'exposition est dans une salle qui n'est pas petit et qui n'est pas gra
 La date de la visite etait le 31 janvier 2024. 
 
 ## Titre de l'oeuvre
+Le titre de l'euvre est Jeremy Shaw : Phase Shifting Index. 
 
 ## Nom de l'artiste
 Le nom de l'artiste est Jeremy Shaw.
@@ -23,7 +24,7 @@ Le nom de l'artiste est Jeremy Shaw.
 L'anne de la realisation est en 2020.
 
 ## Description de l'oeuvre
-L'installation vidéo de sept canaux, les sept écrans affichent des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont pris dans les formats de l’époque, ce qui veut dire du film 16 mm au VHS en passant par le Hi-8. 
+L'installation vidéo de sept canaux avec des porjecteurs, les sept écrans affichent des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont pris dans les formats de l’époque, ce qui veut dire du film 16 mm au VHS en passant par le Hi-8. 
 source: https://macm.org/expositions/jeremy-shaw/
 ## Type d'installation 
 Le type d'installation est simple, il y avait trois ecrans en arriere et quatre ecrans devant. 
