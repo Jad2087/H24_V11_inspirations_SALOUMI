@@ -8,6 +8,7 @@ Le lieu de mise en exposition est a la fonderie Darling.
 
 ## Type d'exposition
 Le type d'exposition est dans une salle qui n'est pas petit et qui n'est pas grand aussi, avec des projecteurs et des ecrans. 
+
 ![photos](photos/arriere_salle.jpg) 
 
 ## Date de la visite
@@ -28,6 +29,7 @@ Le type d'installation est simple, il y avait trois ecrans en arriere et quatre 
 
 ## Mise en espace
 L'oeuvre contient sept ecrans avec des projecteurs, des bancs et des sons pour chaque ecran. Il y avait trois ecrans en arriere et quatre ecrans devant. Le sol etait fait en tapis. Chaque ecran etait de la meme taille, la couleur des murs etait blanches et il y avait suffisament d'espace pour circuler. 
+
 ![photos](photos/plan_exploration.JPG) 
 ## Composantes et techniques
 
