@@ -7,7 +7,7 @@ Le nom de l'exposition est Phase Shifting Index.
 Le lieu de mise en exposition est à la fonderie Darling. 
 
 ## Type d'exposition
-Le type d'exposition est dans une salle qui n'est pas petit et qui n'est pas grand aussi, avec des projecteurs et des écrans. 
+Le type d'exposition est dans une salle qui n'est pas petit et qui n'est pas grand aussi avec des projecteurs et des écrans. 
 
 ![photos](photos/arriere_salle.jpg) 
 
@@ -22,7 +22,7 @@ source: https://macm.org/expositions/jeremy-shaw/
 Le nom de l'artiste est Jeremy Shaw.
 
 source: https://macm.org/expositions/jeremy-shaw/
-## Anne de realisation 
+## Anné de réalisation 
 L'anné de la réalisation est en 2020.
 
 source: https://macm.org/expositions/jeremy-shaw/
