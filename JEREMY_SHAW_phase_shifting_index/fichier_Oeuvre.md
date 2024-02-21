@@ -42,7 +42,7 @@ Pour la mise en espace, il y a trois écrans en arrière et quatre écrans devan
 Pour la diffusion, des personnages ont été utilisés pour faire des chorégraphies et des évocations de pratiques spirituelles. Des projecteurs de couleurs ont été utilisés vers la fin de l'exposition.  
 
 ![photos](photos/tableau_projecteur_02.jpg)
-![photos](photos/premier_tableau_rose.jpg)
+![photos](photos/millieu_tableau_rose.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 L'exposition a cinq bancs et un banc en forme d'escalier pour admirer tous les écrans. Chaque écran contient un projecteur et des cache-fils reliés vers le plafond. Puis, le sol est fait en tapis et les écrans peuvent être vus de l'arrière.
