@@ -58,7 +58,7 @@ Avant de faire l'exploration, il fallait enlever nos chaussures ou mettre une pr
 ![photos](photos/texte_01.jpg) 
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
-Ce qui m'a plu durant l'exposition était qu'il y avait des bancs devant les écrans pour s'asseoir. J'ai trouvé cela très agréable et très confortable. J'ai aussi aimé les sons et surtout l'ambiance qui me mettait à l'aise pendant l'exposition. 
+Ce qui m'a plu durant l'exposition était qu'il y avait des bancs devant les écrans pour s'asseoir. J'ai trouvé cela très agréable et très confortable. J'ai aussi aimé les sons et surtout l'ambiance qui me mettait à l'aise pendant l'exposition. Pendant l'exposition, cela m'avait donné des idées de placer les canaux et les projecteurs, j'avais la pression que les canaux étaient accrochés sans support. Mettre des bancs devant chaque écran avec un son pour tous les canaux en même temps.
 
 ![photos](photos/tableau_danse_04.jpg)
 
