@@ -34,6 +34,7 @@ L'anne de la realisation est en 2020.
 ## Expérience vécue
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
+Ce qui m'a plu durant l'exposition etait qu'il y avait des bancs devant les ecrans pour s'assoeir. J'ai trouve cela tres agreable et tres confortable. J'ai aussi aime les sons et surtout l'ambience qui me mettait a l'aise pendant l'exposition. 
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
