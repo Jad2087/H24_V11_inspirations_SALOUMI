@@ -31,7 +31,7 @@ L'installation vidéo de sept canaux avec des projecteurs, les sept écrans affi
 
 source: https://macm.org/expositions/jeremy-shaw/
 ## Type d'installation 
-Le type d'installation est 
+Le type d'installation est immersive, car c'est un concept technologique qui s’appuie sur différents types de supports et de technologies pour plonger un groupe de personnes autre que leur réalité actuelle.
 
 ## Mise en espace
 Pour la mise en espace, il y a trois ecrans en arriere et quatre ecrans devant. L'ecran 4 est accroche sur le mur blanc. Les reste des canaux ne sont pas accroches sur le mur, mais on peut voir l'arriere de ces ecrans. Lors de l'exploration, il y avait suffisament d'espace pour circuler et regarder la piece en meme temps.
@@ -39,6 +39,8 @@ Pour la mise en espace, il y a trois ecrans en arriere et quatre ecrans devant. 
 ![photos](photos/plan_exploration.JPG) 
 
 ## Composantes et techniques
+Pour la diffusion, des personnages ont ete utilise pour faire des chorégraphies et des évocations de pratiques spirituelles. Des projecteurs de couleurs ont ete utilise vers la fin de l'exposition.
+
 ![photos](photos/tableau_projecteur_02.jpg)
 
 ## Éléments nécessaires à la mise en exposition
