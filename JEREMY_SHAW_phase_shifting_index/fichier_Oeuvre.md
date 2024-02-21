@@ -24,14 +24,16 @@ L'anne de la realisation est en 2020.
 ## Description de l'oeuvre
 
 ## Type d'installation 
+Le type d'installation est simple, il y avait trois ecrans en arriere et quatre ecrans devant. 
 
 ## Mise en espace
-
+L'oeuvre contient sept ecrans avec des projecteurs, des bancs et des sons pour chaque ecran. Le sol etait fait en tapis. Chaque ecran etait de la meme taille, la couleur des murs etait blanches et le plafond etait fait en 
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
 
 ## Expérience vécue
+Mon 
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 Ce qui m'a plu durant l'exposition etait qu'il y avait des bancs devant les ecrans pour s'assoeir. J'ai trouve cela tres agreable et tres confortable. J'ai aussi aime les sons et surtout l'ambience qui me mettait a l'aise pendant l'exposition. 
