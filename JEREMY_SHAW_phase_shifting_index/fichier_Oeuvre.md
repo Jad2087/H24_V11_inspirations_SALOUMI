@@ -46,7 +46,7 @@ Pour la diffusion, des personnages ont été utilisés pour faire des chorégrap
 ![photos](photos/millieu_tableau_rose.jpg)
 
 ## Éléments nécessaires à la mise en exposition
-L'exposition a cinq bancs et un banc en forme d'escalier pour admirer tous les écrans. Chaque écran contient un projecteur et des cache-fils reliés vers le plafond. Puis, le sol est fait en tapis et les écrans peuvent être vus de l'arrière.
+L'exposition a cinq bancs et deux bancs en forme d'escalier pour admirer tous les écrans. Chaque écran contient un projecteur et des cache-fils reliés vers le plafond. Puis, le sol est fait en tapis et les écrans peuvent être vus de l'arrière.
 
 ![photos](photos/installation_exploration.jpg) 
 ![photos](photos/etudiant_exploration.jpg)
