@@ -35,9 +35,10 @@ L'oeuvre contient sept ecrans avec des projecteurs, des bancs et des sons pour c
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
+![photos](photos/installation_exploration.jpg)
 
 ## Expérience vécue
-Mon 
+D'apres mon experience, 
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 Ce qui m'a plu durant l'exposition etait qu'il y avait des bancs devant les ecrans pour s'assoeir. J'ai trouve cela tres agreable et tres confortable. J'ai aussi aime les sons et surtout l'ambience qui me mettait a l'aise pendant l'exposition. 
