@@ -7,7 +7,7 @@ Le nom de l'exposition est Phase Shifting Index.
 Le lieu de mise en exposition est à la fonderie Darling. 
 
 ## Type d'exposition
-Le type d'exposition est dans une salle qui n'est pas petit et qui n'est pas grand aussi avec des projecteurs et des écrans. 
+Le type d'exposition est dans une salle qui n'est pas petite et qui n'est pas grande aussi avec des projecteurs et des écrans.
 
 ![photos](photos/arriere_salle.jpg) 
 
@@ -15,21 +15,21 @@ Le type d'exposition est dans une salle qui n'est pas petit et qui n'est pas gra
 La date de la visite était le 31 janvier 2024. 
 
 ## Titre de l'oeuvre
-Le titre de l'euvre est Jeremy Shaw : Phase Shifting Index. 
+Le titre de l'oeuvre est Jeremy Shaw : Phase Shifting Index. 
 
-source: https://macm.org/expositions/jeremy-shaw/
+Source: https://macm.org/expositions/jeremy-shaw/
 ## Nom de l'artiste
 Le nom de l'artiste est Jeremy Shaw.
 
-source: https://macm.org/expositions/jeremy-shaw/
+Source: https://macm.org/expositions/jeremy-shaw/
 ## Année de réalisation 
 L'année de la réalisation est en 2020.
 
-source: https://macm.org/expositions/jeremy-shaw/
+Source: https://macm.org/expositions/jeremy-shaw/
 ## Description de l'oeuvre
 L'installation vidéo de sept canaux avec des projecteurs, les sept écrans affichent des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont prises dans les formats de l’époque, ce qui veut dire du film 16 mm au VHS en passant par le Hi-8.
 
-source: https://macm.org/expositions/jeremy-shaw/
+Source: https://macm.org/expositions/jeremy-shaw/
 ## Type d'installation 
 Le type d'installation est immersif, car c'est un concept technologique qui s’appuie sur différents types de supports et de technologies pour plonger un groupe de personnes autre que leur réalité actuelle.
 
@@ -50,7 +50,7 @@ L'exposition a cinq bancs et un banc en forme d'escalier pour admirer tous les �
 
 ![photos](photos/installation_exploration.jpg) 
 
-source image: https://macm.org/expositions/jeremy-shaw/
+Source image: https://macm.org/expositions/jeremy-shaw/
 
 ## Expérience vécue
 Avant de faire l'exploration, il fallait enlever nos chaussures ou mettre une protection pour les chaussures. Notre responsable nous a expliqué comment l'exposition fonctionnera. Il nous a également donné un cahier avec des textes pour pouvoir mieux comprendre l'exposition. Une fois arrivée, j'observe la scène et j'essaye de comprendre. Au début, l'ambiance devient calme, vers le milieu et la fin l'ambiance devient de plus en plus excitante. Le son devient de plus en plus fort aussi. Vers la fin, l'ambiance devient incroyable avec le son qui devient intense, j'avais la pression que j'étais dans une boite de nuit. Soudain, tout se ferme et reste silencieux. J'ai adoré l'ambiance, malgré le fait que je n'ai pas vraiment compris le sujet. 
