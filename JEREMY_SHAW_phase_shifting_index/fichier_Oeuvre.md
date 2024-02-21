@@ -49,6 +49,7 @@ Pour la diffusion, des personnages ont été utilisés pour faire des chorégrap
 L'exposition a cinq bancs et un banc en forme d'escalier pour admirer tous les écrans. Chaque écran contient un projecteur et des cache-fils reliés vers le plafond. Puis, le sol est fait en tapis et les écrans peuvent être vus de l'arrière.
 
 ![photos](photos/installation_exploration.jpg) 
+![photos](photos/etudiant_exploration.jpg)
 
 Source image: https://macm.org/expositions/jeremy-shaw/
 
