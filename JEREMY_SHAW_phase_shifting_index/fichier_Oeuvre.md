@@ -41,6 +41,7 @@ Pour la mise en espace, il y a trois ecrans en arriere et quatre ecrans devant. 
 ## Composantes et techniques
 Pour la diffusion, des personnages ont ete utilise pour faire des chorégraphies et des évocations de pratiques spirituelles. Des projecteurs de couleurs ont ete utilise vers la fin de l'exposition.
 
+![photos](photos/premier_tableau_rose.jpg)
 ![photos](photos/tableau_projecteur_02.jpg)
 
 ## Éléments nécessaires à la mise en exposition
