@@ -58,5 +58,7 @@ Ce qui m'a plu durant l'exposition était qu'il y avait des bancs devant les éc
 ![photos](photos/tableau_danse_04.jpg)
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Les aspects que je ne souhaiterais pas retenir etait le sujet de l'exposition. J'aurai aime que le sujet soit facile et claire a comprendre. Pendant l'exposition, je n'ai pas vraiment compris le sujet et le but de ce projet, meme-ci il y avait les textes pour nous aider a comprendre. Il y avait trop d'action qui se passait, je prefere qu'on met les choses une a la fois. J'aurai aime un sujet clair et net a propos dans laquelle on vit actuellement, pour nous aider a comprendre. 
+Les aspects que je ne souhaiterais pas retenir étaient le sujet de l'exposition. J'aurai aimé que le sujet soit facile et clair à comprendre. Pendant l'exposition, je n'ai pas vraiment compris le sujet et le but de ce projet, même-ci il y avait les textes pour nous aider a comprendre. Il y avait trop d'action qui se passait, je préfère qu'on mette les choses une à la fois. J'aurai aimé un sujet clair et net à propos dans laquelle on vit actuellement, pour nous aider à comprendre. 
+
+![photos](photos/.jpg)
 
