@@ -16,21 +16,25 @@ La date de la visite etait le 31 janvier 2024.
 
 ## Titre de l'oeuvre
 Le titre de l'euvre est Jeremy Shaw : Phase Shifting Index. 
+
 source: https://macm.org/expositions/jeremy-shaw/
 ## Nom de l'artiste
 Le nom de l'artiste est Jeremy Shaw.
+
 source: https://macm.org/expositions/jeremy-shaw/
 ## Anne de realisation 
 L'anne de la realisation est en 2020.
+
 source: https://macm.org/expositions/jeremy-shaw/
 ## Description de l'oeuvre
 L'installation vidéo de sept canaux avec des projecteurs, les sept écrans affichent des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont pris dans les formats de l’époque, ce qui veut dire du film 16 mm au VHS en passant par le Hi-8. 
+
 source: https://macm.org/expositions/jeremy-shaw/
 ## Type d'installation 
 Le type d'installation est simple, il y avait trois ecrans en arriere et quatre ecrans devant. 
 
 ## Mise en espace
-Pour la mise en espace, il y a trois ecrans en arriere et quatre ecrans devant. Les canaux en arriere sont accroches sur le mur blanc. Les canaux en avant ne sont pas accroches sur le mur, mais on peut voir l'arriere de ces ecrans. Lors de l'exploration, il y avait suffisament d'espace pour circuler et regarder la piece en meme temps.
+Pour la mise en espace, il y a trois ecrans en arriere et quatre ecrans devant. L'ecran 4 est accroche sur le mur blanc. Les reste des canaux ne sont pas accroches sur le mur, mais on peut voir l'arriere de ces ecrans. Lors de l'exploration, il y avait suffisament d'espace pour circuler et regarder la piece en meme temps.
 
 ![photos](photos/plan_exploration.JPG) 
 
