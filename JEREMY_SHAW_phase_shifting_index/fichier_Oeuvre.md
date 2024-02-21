@@ -54,7 +54,7 @@ L'exposition a cinq bancs et deux bancs en forme d'escalier pour admirer tous le
 Source image: https://macm.org/expositions/jeremy-shaw/
 
 ## Expérience vécue
-Avant de faire l'exploration, il fallait enlever nos chaussures ou mettre une protection pour les chaussures. Notre responsable nous a expliqué comment l'exposition fonctionnera. Il nous a également donné un cahier avec des textes pour pouvoir mieux comprendre l'exposition. Une fois arrivée, j'observe la scène et j'essaye de comprendre. Au début, l'ambiance devient calme, vers le milieu et la fin l'ambiance devient de plus en plus excitante. Le son devient de plus en plus fort aussi. Vers la fin, l'ambiance devient incroyable avec le son qui devient intense, j'avais la pression que j'étais dans une boite de nuit. Soudain, tout se ferme et reste silencieux. J'ai adoré l'ambiance, malgré le fait que je n'ai pas vraiment compris le sujet. 
+Avant de faire l'exploration, il fallait enlever nos chaussures ou mettre une protection pour les chaussures. Notre responsable nous a expliqué comment l'exposition fonctionnera. Il nous a également donné un cahier avec des textes pour pouvoir mieux comprendre l'exposition. Une fois arrivée, j'observe la scène et j'essaye de comprendre. Au début, l'ambiance devient calme, vers le milieu et la fin l'ambiance devient de plus en plus excitante. Le son devient de plus en plus fort aussi. Vers la fin, l'ambiance devient incroyable avec le son qui devient intense, j'avais la pression que j'étais dans une boîte de nuit. Soudain, tout se ferme et reste silencieux. J'ai adoré l'ambiance, malgré le fait que je n'ai pas vraiment compris le sujet. 
 
 ![photos](photos/texte_01.jpg) 
 
