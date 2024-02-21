@@ -56,7 +56,7 @@ source image: https://macm.org/expositions/jeremy-shaw/
 Avant de faire l'exploration, il fallait enlever nos chaussures ou mettre une protection pour les chaussures. Notre responsable nous a expliqué comment l'exposition fonctionnera. Il nous a également donné un cahier avec des textes pour pouvoir mieux comprendre l'exposition. Une fois arrivée, j'observe la scène et j'essaye de comprendre. Au début, l'ambiance devient calme, vers le milieu et la fin l'ambiance devient de plus en plus excitante. Le son devient de plus en plus fort aussi. Vers la fin, l'ambiance devient incroyable avec le son qui devient intense, j'avais la pression que j'étais dans une boite de nuit. Soudain, tout se ferme et reste silencieux. J'ai adoré l'ambiance, malgré le fait que je n'ai pas vraiment compris le sujet. 
 
 ![photos](photos/texte_01.jpg) 
-![photos](photos/cinq_derniers_tableau.jpg)
+
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 Ce qui m'a plu durant l'exposition était qu'il y avait des bancs devant les écrans pour s'asseoir. J'ai trouvé cela très agréable et très confortable. J'ai aussi aimé les sons et surtout l'ambiance qui me mettait à l'aise pendant l'exposition. 
 
@@ -65,5 +65,5 @@ Ce qui m'a plu durant l'exposition était qu'il y avait des bancs devant les éc
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 Les aspects que je ne souhaiterais pas retenir étaient le sujet de l'exposition. J'aurai aimé que le sujet soit facile et clair à comprendre. Pendant l'exposition, je n'ai pas vraiment compris le sujet et le but de ce projet, même-ci il y avait les textes pour nous aider a comprendre. Il y avait trop d'action qui se passait, je préfère qu'on mette les choses une à la fois. J'aurai aimé un sujet clair et net à propos dans laquelle on vit actuellement, pour nous aider à comprendre. 
 
-![photos](photos/.jpg)
+![photos](photos/cinq_derniers_tableau.jpg) 
 
