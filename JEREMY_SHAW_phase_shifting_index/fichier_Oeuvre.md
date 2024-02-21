@@ -40,6 +40,7 @@ Pour la mise en espace, il y a trois ecrans en arriere et quatre ecrans devant. 
 
 ## Composantes et techniques
 
+
 ## Éléments nécessaires à la mise en exposition
 L'exposition a cinq bancs et un banc en forme d'escalier pour admirer tous les ecrans. Chaque ecran contient un projecteur et des caches-fils relies vers le plafond. Puis, le sol est fait en tapis et les ecrans peuvent etre vu de l'arriere.
 
