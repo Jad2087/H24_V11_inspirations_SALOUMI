@@ -39,10 +39,10 @@ Pour la mise en espace, il y a trois ecrans en arriere et quatre ecrans devant. 
 ![photos](photos/plan_exploration.JPG) 
 
 ## Composantes et techniques
-Pour la diffusion, des personnages ont ete utilise pour faire des chorégraphies et des évocations de pratiques spirituelles. Des projecteurs de couleurs ont ete utilise vers la fin de l'exposition.
+Pour la diffusion, des personnages ont ete utilise pour faire des chorégraphies et des évocations de pratiques spirituelles. Des projecteurs de couleurs ont ete utilise vers la fin de l'exposition.  
 
-![photos](photos/premier_tableau_rose.jpg)
 ![photos](photos/tableau_projecteur_02.jpg)
+![photos](photos/premier_tableau_rose.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 L'exposition a cinq bancs et un banc en forme d'escalier pour admirer tous les ecrans. Chaque ecran contient un projecteur et des caches-fils relies vers le plafond. Puis, le sol est fait en tapis et les ecrans peuvent etre vu de l'arriere.
@@ -50,7 +50,7 @@ L'exposition a cinq bancs et un banc en forme d'escalier pour admirer tous les e
 ![photos](photos/installation_exploration.jpg)
 
 ## Expérience vécue
-D'apres mon experience, 
+Avant de faire l'exploration, il fallait enlever nos chaussures ou mettre un protege soulier. Notre guideur nous a expliquer comment l'exposition fonctionnera. Il nous a egalement donner un cahier avec des textes pour pouvoir mieux commprendre l'exposition. Une fois arrivee, j'observe la scene et j'essaye de comprendre. Au debut, l'ambience devient calme, puis, vers le milleu et la fin l'ambience devient de plus en plus excitant. Le son devient de plus en plus fort aussi. Vers la fin, l'ambience devient incroyable avec le son qui devient intense comme ci j'etais dans une boite de nuit. Soudain, tout se ferme et reste silencieux. J'ai adore l'ambience meme-ci je n'ai pas vraiment compris le sujet.
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 Ce qui m'a plu durant l'exposition etait qu'il y avait des bancs devant les ecrans pour s'assoeir. J'ai trouve cela tres agreable et tres confortable. J'ai aussi aime les sons et surtout l'ambience qui me mettait a l'aise pendant l'exposition. 
