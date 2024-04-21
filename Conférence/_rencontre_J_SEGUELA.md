@@ -11,4 +11,4 @@ Ici, il s'agit des grandes idées partagées lors de la conférence.
 En conclusion, cette conférence a été une bonne exemple d'une source d'inspiration. Sa présentation clair a mis les obstacles logistiques l'importance de chaque étape du processus. La passion évidente de Jade Séguela pour son travail envers l'œuvre de Rafael Lozano-Hemmer ont renforcé notre perception de l'importance de la créativité pour la réalisation d'expositions artistiques. De plus, je suis très reconnaissants envers Jade Séguéla d'avoir partagé son savoir et son expérience avec générosité. (80 mots)   
 
 
-[ ] Tâche à accomplir
+- [ ] Tâche à accomplir
