@@ -12,3 +12,4 @@ En conclusion, cette conférence a été une bonne exemple d'une source d'inspir
 
 
 
+![photos](photos/arriere_salle.jpg) 
