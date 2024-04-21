@@ -4,7 +4,9 @@
 Lors d'une conférence à partir de 12h30 jusqu'à 14h00, un mardi le 16 avril 2024 dans la fameuse salle Claude Legault (B1346), une rencontre exceptionnelle  de l'intervenante dont son nom est Jade Séguéla registraire chez Studio Antimodular sous la direction du célèbre artiste numérique Rafael Lozano-Hemmer. Elle partage son expertise sur la logistique de gestion de collection et la mise en exposition de l'œuvre d'art numérique. (67 mots) 
 
 ## Développement
-Ici, il s'agit des grandes idées partagées lors de la conférence. 
+Ici, il s'agit des grandes idées partagées lors de la conférence. Il y avait la biographie de Rafael Lozano-Hemmer et de la registraire qui était intéressant pour les connaitre d'avantages. Par la suite, Jade Séguéla a expliqué comment documenter une exposition avant un envoi. Elle nous explique que cette étape est importante pour se protéger, pour ne rien perdre, pour les douanes et pour le fonctionnement de l'eouvre.  
+
+Elle nous a également expliquer les enjeux liés au lieu comme la pluie, la corrosion et l'électricité pour les expositions qui se font dehors. Une chose qui était asssez intéréssante est l'utilision de Github lors de l'exposition. 
 
 
 ## Conclusion
