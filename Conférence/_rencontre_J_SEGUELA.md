@@ -10,7 +10,4 @@ Ici, il s'agit des grandes idées partagées lors de la conférence.
 ## Conclusion
 En conclusion, cette conférence a été une bonne exemple d'une source d'inspiration. Sa présentation clair a mis les obstacles logistiques l'importance de chaque étape du processus. La passion évidente de Jade Séguela pour son travail envers l'œuvre de Rafael Lozano-Hemmer ont renforcé notre perception de l'importance de la créativité pour la réalisation d'expositions artistiques. De plus, je suis très reconnaissants envers Jade Séguéla d'avoir partagé son savoir et son expérience avec générosité. (80 mots)   
 
-
-
-
-                                ![pulse_forest2](https://github.com/Jad2087/H24_V11_inspirations_SALOUMI/assets/142918288/ee99538c-83e3-4bb7-b629-bbc5cfe2a3f0)
+ ![pulse_forest2](https://github.com/Jad2087/H24_V11_inspirations_SALOUMI/assets/142918288/ee99538c-83e3-4bb7-b629-bbc5cfe2a3f0)
