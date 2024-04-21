@@ -3,12 +3,4 @@ Lors d'une conférence à partir de 12h30 jusqu'à 14h00, un mardi le 16 avril 2
 
 
 
-En conclusion, cette conférence a été une bonne exemple d'une source d'inspiration. La passion évidente de Jade Séguela pour son travail envers l'œuvre de Rafael Lozano-Hemmer ont renforcé notre perception de l'importance de la créativité pour la réalisation d'expositions artistiques.
-
-
-
-
-
-
-
-Je suis très reconnaissants envers Jade Séguéla d'avoir partagé son savoir et son expérience avec générosité.    
+En conclusion, cette conférence a été une bonne exemple d'une source d'inspiration. Sa présentation clair a mis les obstacles logistiques l'importance de chaque étape du processus. La passion évidente de Jade Séguela pour son travail envers l'œuvre de Rafael Lozano-Hemmer ont renforcé notre perception de l'importance de la créativité pour la réalisation d'expositions artistiques. De plus, je suis très reconnaissants envers Jade Séguéla d'avoir partagé son savoir et son expérience avec générosité.    
