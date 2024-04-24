@@ -1,4 +1,4 @@
-# Réflexions Essentielles
+# Conférence
 
 ## Introduction
 Lors d'une conférence à partir de 12h30 jusqu'à 14h00, un mardi le 16 avril 2024 dans la fameuse salle Claude Legault (B1346), une rencontre exceptionnelle  de l'intervenante dont son nom est Jade Séguéla registraire chez Studio Antimodular sous la direction du célèbre artiste numérique Rafael Lozano-Hemmer. Elle partage son expertise sur la logistique de gestion de collection et la mise en exposition de l'œuvre d'art numérique. (67) 
