@@ -2,6 +2,7 @@
 ### Réalisé par : Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic
 
 ## Lien avec le thème Crescentia 
+https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Intallation en cours dans le studio
 
@@ -14,6 +15,7 @@ Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs ca
 ### Réalisé par : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuralev et Jasmine Lapierre
 
 ## Lien avec le thème Crescentia 
+https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 
 ## Intallation en cours dans le studio
 
@@ -26,6 +28,7 @@ Pour ce projet, je ressens un sentiment de connexion avec la nature et d'apprend
 ### Réalisé par : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
 
 ## Lien avec le thème Crescentia 
+https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 
 ## Intallation en cours dans le studio
 
@@ -38,6 +41,7 @@ En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela 
 ### Réalisé par : Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 
 ## Lien avec le thème Crescentia 
+https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
 
 ## Intallation en cours dans le studio
 
@@ -50,6 +54,7 @@ En explorant les instruments du projet et en créant ma propre musique, je peux 
 ### Réalisé par : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau
 
 ## Lien avec le thème Crescentia 
+https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
 ## Intallation en cours dans le studio
 
