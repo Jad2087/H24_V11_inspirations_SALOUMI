@@ -24,6 +24,8 @@ https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 
 ## Schéma de l'installation 
 
+
+https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
 ## Appréciation
 Pour ce projet, je ressens un sentiment de connexion avec la nature et d'apprendre davantage sur les processus de croissance des plantes. Une fois que je vais decouvrir les conséquences de mes actions sur la pomme finale, cela pourrais me faire réfléchir à l'impact de mes choix sur l'environnement.
 
@@ -37,6 +39,7 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 
 ## Schéma de l'installation 
 
+https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 ## Appréciation
 En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela demande également de l'action, et j'aime bouger pour éviter les obstacles et atteindre les différents univers visuels avec des esthétiques différentes aux quatre saisons. L'adrénaline va monter.
 
@@ -49,6 +52,8 @@ https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
+
+https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
 
 ## Appréciation
 En explorant les instruments du projet et en créant ma propre musique, je peux ressentir une connexion et du plaisir tout en trouvant du bonheur dans la créativité.
