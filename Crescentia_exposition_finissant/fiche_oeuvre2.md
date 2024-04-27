@@ -40,6 +40,7 @@ En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela 
 ## Schéma de l'installation 
 
 ## Appréciation
+En explorant les instruments du projet et en créant ma propre musique, je peux ressentir une connexion et du plaisir tout en trouvant du bonheur dans la créativité.
 
  # 5. Canevas Cosmique
 
