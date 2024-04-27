@@ -43,6 +43,7 @@ En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela 
 En explorant les instruments du projet et en créant ma propre musique, je peux ressentir une connexion et du plaisir tout en trouvant du bonheur dans la créativité.
 
  # 5. Canevas Cosmique
+Pour ce projet, je crois ressentir de la curiosite et un peu de la nervosite en explorant la simmulation du systeme solaire, puisque je vais etre seul dans le laboratoire.
 
 ## Lien avec le thème Crescentia 
 
