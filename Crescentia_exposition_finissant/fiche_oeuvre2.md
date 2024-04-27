@@ -7,7 +7,9 @@
 ## Schéma de l'installation 
 
 ## Appréciation
-Pour ce projet, a été une source d'appréciation pour moi, puisque une fois la main est chaque élément ajouté était comme une image qui se réveillait de mes souvenirs en créant une expérience captivant. C'était une occasion de revivre ces bons moments et de créer quelque chose de vraiment significatif.
+Pour ce projet, je crois ressentir etre curieux pour découvrir les souvenirs cachés. Les images projettes pourrontt me faire penser à ma propre vie et à mes propres expériences. Cette expérience pourrait me faire sentir connecté aux autres personnes qui partagent cette exploration.
+
+Lors du projet, je pourrais réalisé que le temps est important dans nos vies.
 
 # 2. Effet-Papillon
 
