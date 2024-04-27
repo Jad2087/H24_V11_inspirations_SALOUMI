@@ -29,7 +29,7 @@ Pour ce projet, je crois ressentir un sentiment de connexion avec la nature et d
 ## Schéma de l'installation 
 
 ## Appréciation
-En participant a ce projet pour éviter les obstacles et atteindre les différents univers visuels, je crois avoir du plaisir, car cela demande de l'action et j'aime bougé. 
+En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela demande également de l'action, et j'aime bouger pour éviter les obstacles et atteindre les différents univers visuels avec des esthétiques différentes aux quatre saisons. L'adrénaline va monter.
 
 # 4. Sonalux
 
