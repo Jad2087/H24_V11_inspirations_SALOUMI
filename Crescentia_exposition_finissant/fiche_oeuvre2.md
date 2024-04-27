@@ -47,7 +47,7 @@ En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela 
 En explorant les instruments du projet et en créant ma propre musique, je peux ressentir une connexion et du plaisir tout en trouvant du bonheur dans la créativité.
 
  # 5. Canevas Cosmique
-### Réalisé par :
+### Réalisé par : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau
 
 ## Lien avec le thème Crescentia 
 
