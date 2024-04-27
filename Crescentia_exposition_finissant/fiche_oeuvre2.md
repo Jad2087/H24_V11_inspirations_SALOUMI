@@ -23,9 +23,9 @@ https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
-
-
+![Media](Media/effet-papillon_plantation.png) 
 https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
+
 ## Appréciation
 Pour ce projet, je ressens un sentiment de connexion avec la nature et d'apprendre davantage sur les processus de croissance des plantes. Une fois que je vais decouvrir les conséquences de mes actions sur la pomme finale, cela pourrais me faire réfléchir à l'impact de mes choix sur l'environnement.
 
@@ -38,6 +38,7 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
+![Media](Media/kigo_plantation.png) 
 
 https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 ## Appréciation
@@ -52,6 +53,7 @@ https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
+![Media](Media/sonalux_plantation.png) 
 
 https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
 
@@ -67,6 +69,7 @@ https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
+![Media](Media/canevas-cosmique_plantation.png) 
 
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
 
