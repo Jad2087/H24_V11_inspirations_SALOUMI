@@ -7,6 +7,8 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
+
+#### Rhizomatique plantation
 ![Media](Media/rhizomatique_plantation.png) 
 
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
