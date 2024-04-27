@@ -5,6 +5,7 @@
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Intallation en cours dans le studio
+Voici l'intallation en cours du projet,
 
 ## Schéma de l'installation 
 
