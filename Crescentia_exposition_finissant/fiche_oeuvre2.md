@@ -7,7 +7,7 @@
 ## Schéma de l'installation 
 
 ## Appréciation
-Pour ce projet, je crois ressentir etre curieux pour découvrir les souvenirs cachés. Les images projettes pourrontt me faire penser à ma propre vie et à mes propres expériences. Cette expérience pourrait me faire sentir connecté aux autres personnes qui partagent cette exploration et que le temps est important dans nos vies.
+Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs cachés. Les images projetées pourront me faire penser à ma propre vie et à mes propres expériences. Cette expérience pourrait me faire sentir connecté aux autres personnes qui partagent cette exploration et que le temps est important dans nos vies
 
 # 2. Effet-Papillon
 
