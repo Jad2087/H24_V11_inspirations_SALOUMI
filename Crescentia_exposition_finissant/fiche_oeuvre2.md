@@ -8,7 +8,7 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Schéma de l'installation 
 
-#### Rhizomatique plantation
+#### - Rhizomatique plantation
 ![Media](Media/rhizomatique_plantation.png) 
 
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
@@ -25,7 +25,9 @@ https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
+#### - Effet-Papillon plantation
 ![Media](Media/effet-papillon_plantation.png) 
+
 https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
 
 ## Appréciation
@@ -40,6 +42,7 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
+#### - Kigo plantation
 ![Media](Media/kigo_plantation.png) 
 
 https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
@@ -55,6 +58,7 @@ https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
+#### - Sonalux plantation
 ![Media](Media/sonalux_plantation.png) 
 
 https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
@@ -71,6 +75,7 @@ https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
+#### - Canevas Cosmique plantation
 ![Media](Media/canevas-cosmique_plantation.png) 
 
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
