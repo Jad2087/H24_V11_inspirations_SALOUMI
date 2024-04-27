@@ -1,4 +1,5 @@
 # 1. Rhizomatique
+#### Réalisé par : Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic
 
 ## Lien avec le thème Crescentia 
 
@@ -10,6 +11,7 @@
 Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs cachés. Les images projetées pourront me faire penser à ma propre vie et à mes propres expériences. Cette expérience pourrait me faire sentir connecté aux autres personnes qui partagent cette exploration et que le temps est important dans nos vies
 
 # 2. Effet-Papillon
+#### Réalisé par : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuralev et Jasmine Lapierre
 
 ## Lien avec le thème Crescentia 
 
