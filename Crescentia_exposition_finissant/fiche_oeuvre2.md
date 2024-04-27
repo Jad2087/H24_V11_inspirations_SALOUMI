@@ -68,6 +68,8 @@ https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
 ## Schéma de l'installation 
 
+https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
+
 ## Appréciation
 Pour ce projet, je ressens de la curiosité et un peu de nervosité en explorant la simulation du système solaire, puisque je vais être seul dans le laboratoire.
 
