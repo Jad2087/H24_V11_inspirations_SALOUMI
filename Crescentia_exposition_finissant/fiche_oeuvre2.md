@@ -18,7 +18,7 @@ Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs ca
 ## Schéma de l'installation 
 
 ## Appréciation
-Pour ce projet, je crois ressentir un sentiment de connexion avec la nature et d'apprendre davantage sur les processus de croissance des plantes. Une fois que je vais decouvrir les conséquences de mes actions sur la pomme finale, cela pourrais me faire réfléchir à l'impact de mes choix sur l'environnement.
+Pour ce projet, je ressens un sentiment de connexion avec la nature et d'apprendre davantage sur les processus de croissance des plantes. Une fois que je vais decouvrir les conséquences de mes actions sur la pomme finale, cela pourrais me faire réfléchir à l'impact de mes choix sur l'environnement.
 
 # 3. Kigo
 
@@ -43,7 +43,6 @@ En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela 
 En explorant les instruments du projet et en créant ma propre musique, je peux ressentir une connexion et du plaisir tout en trouvant du bonheur dans la créativité.
 
  # 5. Canevas Cosmique
-Pour ce projet, je crois ressentir de la curiosite et un peu de la nervosite en explorant la simmulation du systeme solaire, puisque je vais etre seul dans le laboratoire.
 
 ## Lien avec le thème Crescentia 
 
@@ -52,3 +51,5 @@ Pour ce projet, je crois ressentir de la curiosite et un peu de la nervosite en 
 ## Schéma de l'installation 
 
 ## Appréciation
+Pour ce projet, je ressens de la curiosité et un peu de nervosité en explorant la simulation du système solaire, puisque je vais être seul dans le laboratoire.
+
