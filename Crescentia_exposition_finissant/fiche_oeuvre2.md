@@ -7,8 +7,9 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 ## Intallation en cours dans le studio
 
 ## Schéma de l'installation 
-
+![Media](Media/rhizomatique_plantation.png) 
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
+
 ## Appréciation
 Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs cachés. Les images projetées pourront me faire penser à ma propre vie et à mes propres expériences. Cette expérience pourrait me faire sentir connecté aux autres personnes qui partagent cette exploration et que le temps est important dans nos vies
 
