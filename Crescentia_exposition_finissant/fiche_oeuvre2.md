@@ -8,6 +8,7 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Schéma de l'installation 
 ![Media](Media/rhizomatique_plantation.png) 
+
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 
 ## Appréciation
