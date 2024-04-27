@@ -5,7 +5,9 @@
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Intallation en cours dans le studio
-Voici l'intallation en cours du projet,
+#### - Voici l'intallation en cours du projet 
+![Media](Media/rhizomatique_installation.HEIC) 
+
 
 ## Schéma de l'installation 
 
