@@ -6,8 +6,7 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Intallation en cours dans le studio
 #### - Voici l'intallation en cours du projet 
-![Media](Media/rhizomatique_installation.HEIC) 
-
+![Media](Media/rhizomatique_installation.jpg) 
 
 ## Schéma de l'installation 
 
@@ -26,6 +25,8 @@ Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs ca
 https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 
 ## Intallation en cours dans le studio
+#### - Voici l'intallation en cours du projet 
+![Media](Media/effet-papilllon_installation.jpg) 
 
 ## Schéma de l'installation 
 #### - Effet-Papillon plantation
@@ -43,7 +44,8 @@ Pour ce projet, je ressens un sentiment de connexion avec la nature et d'apprend
 https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 
 ## Intallation en cours dans le studio
-
+#### - Voici l'intallation en cours du projet 
+![Media](Media/kigo_installation.jpg)
 ## Schéma de l'installation 
 #### - Kigo plantation
 ![Media](Media/kigo_plantation.png) 
@@ -59,6 +61,8 @@ En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela 
 https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
 
 ## Intallation en cours dans le studio
+#### - Voici l'intallation en cours du projet 
+![Media](Media/sonalux_installation.jpg)
 
 ## Schéma de l'installation 
 #### - Sonalux plantation
@@ -76,6 +80,8 @@ En explorant les instruments du projet et en créant ma propre musique, je peux 
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
 ## Intallation en cours dans le studio
+#### - Voici l'intallation en cours du projet 
+![Media](Media/canevas-cosmique_installation.jpg)
 
 ## Schéma de l'installation 
 #### - Canevas Cosmique plantation
