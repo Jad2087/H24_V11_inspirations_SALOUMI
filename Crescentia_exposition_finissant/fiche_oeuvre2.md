@@ -92,3 +92,7 @@ https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction
 ## Appréciation
 Pour ce projet, je ressens de la curiosité et un peu de nervosité en explorant la simulation du système solaire, puisque je vais être seul dans le laboratoire.
 
+# 6. 3 cours du programme incoutournables
+# 7. 
+# 8. Le projet préféré
+ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
