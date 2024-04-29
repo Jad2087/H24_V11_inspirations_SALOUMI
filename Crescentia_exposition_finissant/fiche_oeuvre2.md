@@ -22,28 +22,6 @@ Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduc
 ## Appréciation
 Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs cachés. Les images projetées pourront me faire penser à ma propre vie et à mes propres expériences. Cette expérience pourrait me faire sentir connecté aux autres personnes qui partagent cette exploration et que le temps est important dans nos vies
 
-## Cours requis
-
-# 2. Kigo
-### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
-
-## Lien avec le thème Crescentia 
-Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
-
-## Intallation en cours dans le studio
-#### - Voici l'intallation en cours du projet 
-![Media](Media/kigo_installation.jpg)
-Source: Ma photo
-
-## Schéma de l'installation 
-#### - Kigo plantation
-![Media](Media/kigo_plantation.png) 
-
-Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
-
-## Appréciation
-En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela demande également de l'action, et j'aime bouger pour éviter les obstacles et atteindre les différents univers visuels avec des esthétiques différentes aux quatre saisons. L'adrénaline va monter.
-
 # 3. Effet-Papillon
 ### Créateurs  : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuralev et Jasmine Lapierre
 
