@@ -6,6 +6,7 @@
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Intallation en cours dans le studio
+
 - #### Voici l'intallation en cours du projet
 
 ![Media](Media/rhizomatique_installation.jpg) 
@@ -21,9 +22,29 @@ Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduc
 ## Appréciation
 Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs cachés. Les images projetées pourront me faire penser à ma propre vie et à mes propres expériences. Cette expérience pourrait me faire sentir connecté aux autres personnes qui partagent cette exploration et que le temps est important dans nos vies
 
-## 3 cours du programme incoutournables
+## Cours requis
 
-# 2. Effet-Papillon
+# 2. Kigo
+### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
+
+## Lien avec le thème Crescentia 
+Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
+
+## Intallation en cours dans le studio
+#### - Voici l'intallation en cours du projet 
+![Media](Media/kigo_installation.jpg)
+Source: Ma photo
+
+## Schéma de l'installation 
+#### - Kigo plantation
+![Media](Media/kigo_plantation.png) 
+
+Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
+
+## Appréciation
+En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela demande également de l'action, et j'aime bouger pour éviter les obstacles et atteindre les différents univers visuels avec des esthétiques différentes aux quatre saisons. L'adrénaline va monter.
+
+# 3. Effet-Papillon
 ### Créateurs  : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuralev et Jasmine Lapierre
 
 ## Lien avec le thème Crescentia 
@@ -43,24 +64,6 @@ Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preprod
 ## Appréciation
 Pour ce projet, je ressens un sentiment de connexion avec la nature et d'apprendre davantage sur les processus de croissance des plantes. Une fois que je vais decouvrir les conséquences de mes actions sur la pomme finale, cela pourrais me faire réfléchir à l'impact de mes choix sur l'environnement.
 
-# 3. Kigo
-### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
-
-## Lien avec le thème Crescentia 
-Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
-
-## Intallation en cours dans le studio
-#### - Voici l'intallation en cours du projet 
-![Media](Media/kigo_installation.jpg)
-Source: Ma photo
-## Schéma de l'installation 
-#### - Kigo plantation
-![Media](Media/kigo_plantation.png) 
-
-Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
-
-## Appréciation
-En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela demande également de l'action, et j'aime bouger pour éviter les obstacles et atteindre les différents univers visuels avec des esthétiques différentes aux quatre saisons. L'adrénaline va monter.
 
 # 4. Sonalux
 ### Créateurs : Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
