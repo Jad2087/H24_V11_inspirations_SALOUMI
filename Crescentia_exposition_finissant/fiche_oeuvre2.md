@@ -1,5 +1,5 @@
 # 1. Rhizomatique
-### Réalisé par : Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic
+### Créateurs : Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic
 
 ## Lien avec le thème Crescentia 
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
@@ -20,7 +20,7 @@ Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs ca
 ## 3 cours du programme incoutournables
 
 # 2. Effet-Papillon
-### Réalisé par : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuralev et Jasmine Lapierre
+### Créateurs  : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuralev et Jasmine Lapierre
 
 ## Lien avec le thème Crescentia 
 Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
@@ -39,7 +39,7 @@ Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preprod
 Pour ce projet, je ressens un sentiment de connexion avec la nature et d'apprendre davantage sur les processus de croissance des plantes. Une fois que je vais decouvrir les conséquences de mes actions sur la pomme finale, cela pourrais me faire réfléchir à l'impact de mes choix sur l'environnement.
 
 # 3. Kigo
-### Réalisé par : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
+### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
 
 ## Lien avec le thème Crescentia 
 Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
@@ -57,7 +57,7 @@ Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.htm
 En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela demande également de l'action, et j'aime bouger pour éviter les obstacles et atteindre les différents univers visuels avec des esthétiques différentes aux quatre saisons. L'adrénaline va monter.
 
 # 4. Sonalux
-### Réalisé par : Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
+### Créateurs : Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 
 ## Lien avec le thème Crescentia 
 Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
@@ -76,7 +76,7 @@ Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.
 En explorant les instruments du projet et en créant ma propre musique, je peux ressentir une connexion et du plaisir tout en trouvant du bonheur dans la créativité.
 
  # 5. Canevas Cosmique
-### Réalisé par : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau
+### Créateurs  : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau
 
 ## Lien avec le thème Crescentia 
 Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
