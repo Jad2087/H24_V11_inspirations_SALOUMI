@@ -6,9 +6,11 @@
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Intallation en cours dans le studio
-#### - Voici l'intallation en cours du projet 
+- #### Voici l'intallation en cours du projet
+
 ![Media](Media/rhizomatique_installation.jpg) 
-Source: Ma photo
+- #### Source: Ma photo
+
 ## Schéma de l'installation 
 
 #### - Rhizomatique plantation
@@ -18,6 +20,7 @@ Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduc
 
 ## Appréciation
 Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs cachés. Les images projetées pourront me faire penser à ma propre vie et à mes propres expériences. Cette expérience pourrait me faire sentir connecté aux autres personnes qui partagent cette exploration et que le temps est important dans nos vies
+
 ## 3 cours du programme incoutournables
 
 # 2. Effet-Papillon
@@ -27,9 +30,10 @@ Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs ca
 Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 
 ## Intallation en cours dans le studio
-#### - Voici l'intallation en cours du projet 
+- Voici l'intallation en cours du projet
+
 ![Media](Media/effet-papilllon_installation.jpg) 
-Source: Ma photo
+- #### Source: Ma photo
 ## Schéma de l'installation 
 #### - Effet-Papillon plantation
 ![Media](Media/effet-papillon_plantation.png) 
