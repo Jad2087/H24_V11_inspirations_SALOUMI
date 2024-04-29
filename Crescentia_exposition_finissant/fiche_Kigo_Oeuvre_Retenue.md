@@ -1,6 +1,5 @@
 # Kigo
 
-
 ## Nom de l'exposition
 Le nom de l'exposition est Kigo.
 
@@ -8,7 +7,7 @@ Le nom de l'exposition est Kigo.
 Le lieu de mise en exposition est dans le grand studio du Collège Montmorency.
 
 ## Type d'exposition
-Le type d'exposition est 
+Le type d'exposition est à l'intérieur.
 
 ## Date de la visite
 La date de la visite était le 31 janvier 2024. 
