@@ -2,6 +2,7 @@
 ### Créateurs : Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic
 
 ## Lien avec le thème Crescentia 
+
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Intallation en cours dans le studio
