@@ -44,6 +44,9 @@ Le type d'installation est à l'intérieur
 # 2. Kigo
 ### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
 
+
+## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+
 ## Lien avec le thème Crescentia 
 Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 
@@ -53,13 +56,17 @@ Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 Source: Ma photo
 
 ## Schéma de l'installation 
+
 #### - Kigo plantation
 ![Media](Media/kigo_plantation.png) 
 
 Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
-## Appréciation
+## Avant l'expérimentation
 En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela demande également de l'action, et j'aime bouger pour éviter les obstacles et atteindre les différents univers visuels avec des esthétiques différentes aux quatre saisons. L'adrénaline va monter.
+
+## Après l'expérimentation
+Après l'expérimentation, c'était le premier projet qui m'a le plus attiré et que j'ai le plus apprécié. J'ai beaucoup aimé le fait qu'il nécessite du mouvement et qu'il vise à atteindre le score le plus élevé possible. Ce projet m'a également inspiré pour envisager de réaliser un projet similaire si nécessaire.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
