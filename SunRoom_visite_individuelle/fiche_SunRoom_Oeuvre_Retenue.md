@@ -1,5 +1,5 @@
 # Sun Room
-
+![Media](Media/kigo_installation.jpg)
 
 ## Nom de l'exposition
 
