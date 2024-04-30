@@ -48,9 +48,9 @@ Le type d'installation est à l'intérieur
 ### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
 
 ## Lien avec le thème Crescentia 
-Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
+Le lien avec le thème Crescentia est que le projet offre une immersion visuelle et sonore qui renforce cette thématique.
 
-## Intallation en cours dans le studio
+# Intallation en cours dans le studio
 #### - Voici l'intallation en cours du projet 
 ![Media](Media/kigo_installation.jpg)
 Source: Ma photo
