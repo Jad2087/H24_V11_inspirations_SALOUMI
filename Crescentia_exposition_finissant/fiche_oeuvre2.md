@@ -28,7 +28,7 @@ Après avoir participé au projet, j'ai beaucoup apprécié, particulièrement l
 ### Créateurs  : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuralev et Jasmine Lapierre
 
 ## Lien avec le thème Crescentia 
-Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
+Le lien est qu'il explore les répercussions de nos actions sur un système complexe, illustrant ainsi le thème Crescentia de l'interconnectivité.
 
 ## Intallation en cours dans le studio
 - Voici l'intallation en cours du projet
