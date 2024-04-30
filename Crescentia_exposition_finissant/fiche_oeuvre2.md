@@ -9,14 +9,14 @@ Le lien avec le thème Crescentia réside dans le fait que le projet Rhizomatiqu
 - ### Voici l'intallation en cours du projet
 
 ![Media](Media/rhizomatique_installation.jpg) 
-- #### Source: Ma photo
+- ### Source: Ma photo
 
 ## Schéma de l'installation 
 
-### - Rhizomatique plantation
+- ###  Rhizomatique plantation
 ![Media](Media/rhizomatique_plantation.png) 
 
-Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
+- ### Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 
 ## Avant l'expérimentation
 Pour ce projet, je crois ressentir une curiosité à découvrir les souvenirs cachés. Les images projetées pourront me faire penser à ma propre vie et à mes propres expériences. Cette expérience pourrait me faire sentir connecté aux autres personnes qui partagent cette exploration et que le temps est important dans nos vies
@@ -31,15 +31,15 @@ Après avoir participé au projet, j'ai beaucoup apprécié, particulièrement l
 Le lien est qu'il explore les répercussions de nos actions sur un système complexe, illustrant ainsi le thème Crescentia de l'interconnectivité.
 
 ## Intallation en cours dans le studio
-- Voici l'intallation en cours du projet
+- ### Voici l'intallation en cours du projet
 
 ![Media](Media/effet-papilllon_installation.jpg) 
 - ### Source: Ma photo
 ## Schéma de l'installation 
-### - Effet-Papillon plantation
+- ### Effet-Papillon plantation
 ![Media](Media/effet-papillon_plantation.png) 
 
-Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
+- ### Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
 
 ## Avant l'expérimentation
 Pour ce projet, je ressens un sentiment de connexion avec la nature et d'apprendre davantage sur les processus de croissance des plantes. Une fois que je vais decouvrir les conséquences de mes actions sur la pomme finale, cela pourrais me faire réfléchir à l'impact de mes choix sur l'environnement.
@@ -54,14 +54,17 @@ Après l'expérimentation, j'ai surtout apprécié les efforts que les étudiant
 Un laboratoire où une simulation de système solaire vous invite à interagir en controlant des statues.
 
 ## Intallation en cours dans le studio
-### - Voici l'intallation en cours du projet 
+
+- ### Voici l'intallation en cours du projet 
 ![Media](Media/canevas-cosmique_installation.jpg)
-Source: Ma photo
+
+- ### Source: Ma photo
+
 ## Schéma de l'installation 
-### - Canevas Cosmique plantation
+- ### Canevas Cosmique plantation
 ![Media](Media/canevas-cosmique_plantation.png) 
 
-Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
+- ### Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
 
 ## Avant l'expérimentation
 Pour ce projet, je ressens de la curiosité et un peu de nervosité en explorant la simulation du système solaire, puisque je vais être seul dans le laboratoire.
@@ -77,13 +80,14 @@ Le lien est que le projet Sonalux offre une expérience d'art génératif où le
 
 
 ## Intallation en cours dans le studio
-### - Voici l'intallation en cours du projet 
+- ### Voici l'intallation en cours du projet 
 ![Media](Media/sonalux_installation.jpg)
-Source: Ma photo
-## Schéma de l'installation 
-### - Sonalux plantation
+- ### Source: Ma photo
+  
+## Schéma de l'installation
+- ### Sonalux plantation
 ![Media](Media/sonalux_plantation.png) 
-
+- ### Source: Ma photo
 Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
 
 ## Avant l'expérimentation
@@ -94,14 +98,14 @@ Une fois le projet terminé, je n'ai pas vraiment apprécié l'expérience. En r
 
  ## Cours requis
 Les trois cours requis du programme de la technique d'intégration multimédia pour ce genre de projet sont tous les cours de Web, le cours d'interactivité ludique et le cours de Modélisation 3D. J'ai choisi le cours de Web, car c'est un cours où l'on apprend à programmer pour faire bouger ou manipuler des contenus. Par exemple, dans le projet Kigo, ils ont dû faire de la programmation pour faire bouger le personnage face à plusieurs obstacles. Ensuite, j'ai pris le cours d'interactivité ludique, un cours où l'élève conçoit et réalise un projet ludique sur ordinateur en intégrant des images et des échantillons sonores. Son objectif est de créer une expérience interactive et divertissante où l'utilisateur progresse selon ses actions. Puis, le cours de Modélisation 3D où l'on concevra des objets en trois dimensions. 
-
-- Source: https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
+- ### Source: https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
+  
 ## Composante technologique
 La composante technologique que je ne connais pas est le Kinect v2, utiliser dans plusieurs projets comme le projet Kigo et Canevas Cosmique. C'est une composante technologique qui capte des mouvements pour la Xbox One. Il utilise des caméras, des capteurs de profondeur et des microphones pour permettre aux utilisateurs d'interagir avec les jeux sans manette.
 
 - Voici la composante technologique 
 ![Media](Media/kinectv2.jpg) 
-- Source: https://www.windowscentral.com/kinect-windows-v2-gets-updated-sdk-kinect-fusion-tool-kit
+- ### Source: https://www.windowscentral.com/kinect-windows-v2-gets-updated-sdk-kinect-fusion-tool-kit
 
 
 
