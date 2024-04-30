@@ -36,7 +36,7 @@ Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 ![Media](Media/kigo_installation.jpg)
 
 ## Fonction du dispositif multimédia
-
+![Media](Media/.png)
 ## Mise en espace
 Pour la configuration de l'espace, celle-ci se déroule sur un mur équipé d'un projecteur. La zone utilisée occupe la moitié verticale en face de l'écran du projet. Des haut-parleurs sont fixés à côté de la projection murale, un ordinateur et une console de jeu se trouvent à gauche de l'écran, et le Kinect V2 est placé au sol en face de l'écran.
 
