@@ -24,10 +24,18 @@ L'année de la réalisation est en 2021.
 
 ## Description de l'oeuvre
 La description de l'œuvre est celle d'un projet où un grand projecteur de couleur orange représente le soleil. Il y a deux écrans devant lesquels les spectateurs doivent se placer, et une forte lumière blanche s'allume. 
-![Media](Media/plan_expo.jpg)
+
+- Consigne
+  
+![Media](Media/note_2.jpg)
+Source: Ma photo
 
 ## Type d'installation 
+Le type d'installation est immersif. 
 
+- Installation
+![Media](Media/note_2.jpg)
+Source: Ma photo
 
 
 ## Mise en espace
