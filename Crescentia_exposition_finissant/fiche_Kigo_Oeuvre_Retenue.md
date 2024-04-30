@@ -41,11 +41,11 @@ Le type d'installation est à l'intérieur
 ## Expérience vécue
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
-# 2. Kigo
-### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
-
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+
+# 2. Kigo
+### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
 
 ## Lien avec le thème Crescentia 
 Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
