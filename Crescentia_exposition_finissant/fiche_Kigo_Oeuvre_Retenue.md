@@ -52,6 +52,7 @@ Pour la configuration de l'espace, celle-ci se déroule sur un mur équipé d'un
 
 Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 ## Composantes et techniques
+Les composantes et les techniques utilisées sont les haut-parleurs, le Kinect V2, la console de jeu, un projecteur, ainsi que des câbles et des fils électriques. En emballant soigneusement ces composantes, l'ensemble du dispositif pourra être transporté en toute sécurité outre-mer pour une exposition.
 
 
 ## Éléments nécessaires à la mise en exposition
