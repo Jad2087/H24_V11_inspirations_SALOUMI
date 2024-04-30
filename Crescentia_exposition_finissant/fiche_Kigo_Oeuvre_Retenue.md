@@ -43,7 +43,10 @@ Pour la mise en espace
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
+Pour que l'oeuvre soit exposer, ils ont mis un projecteur accrocher au plafond grace a un support qui le tient. Quatres câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres), un cable d'alimentation pour l'ordinateur, le console de son et deux cables HDM1 et plusieurs fils electriques.
+![Media](Media/projecteur_kigo.jpg)
 
+- Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 ## Expérience vécue
 Avant de commencer l'exploration, l'animateur a demandé qui voulait participer. Une fois qu'une personne se porte volontaire, elle doit se positionner entre les lignes délimitées et ne pas les dépasser pour pouvoir participer. Une fois le projet lancé, plusieurs obstacles apparaissaient à l'écran. Le participant devait les éviter et essayer d'accumuler le plus de points possible en évitant ces obstacles.
 
