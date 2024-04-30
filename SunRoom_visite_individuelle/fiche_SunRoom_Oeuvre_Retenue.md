@@ -23,7 +23,7 @@ Le nom de l'artiste est Dax Dasilva.
 L'année de la réalisation est en 2021. 
 
 ## Description de l'oeuvre
-
+La description de l'œuvre est celle d'un projet où un grand projecteur de couleur orange représente le soleil. Il y a deux écrans devant lesquels les spectateurs doivent se placer, et une forte lumière blanche s'allume. 
 
 
 ## Type d'installation 
