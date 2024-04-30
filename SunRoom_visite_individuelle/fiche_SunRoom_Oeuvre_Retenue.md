@@ -2,7 +2,8 @@
 
 ## Nom de l'exposition
 Le nom de l'exposition est Age of Union.
-![Media](Media/kigo_installation.jpg)
+
+![Media](Media/age_union.jpg)
 ## Lieu de mise en exposition
 Le lieu de mise en exposition est au Centre Age of Union
 
