@@ -6,14 +6,14 @@ Le lien avec le thème Crescentia réside dans le fait que le projet Rhizomatiqu
 
 ## Intallation en cours dans le studio
 
-- #### Voici l'intallation en cours du projet
+- ### Voici l'intallation en cours du projet
 
 ![Media](Media/rhizomatique_installation.jpg) 
 - #### Source: Ma photo
 
 ## Schéma de l'installation 
 
-#### - Rhizomatique plantation
+### - Rhizomatique plantation
 ![Media](Media/rhizomatique_plantation.png) 
 
 Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
@@ -34,9 +34,9 @@ Le lien est qu'il explore les répercussions de nos actions sur un système comp
 - Voici l'intallation en cours du projet
 
 ![Media](Media/effet-papilllon_installation.jpg) 
-- #### Source: Ma photo
+- ### Source: Ma photo
 ## Schéma de l'installation 
-#### - Effet-Papillon plantation
+### - Effet-Papillon plantation
 ![Media](Media/effet-papillon_plantation.png) 
 
 Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
@@ -54,11 +54,11 @@ Après l'expérimentation, j'ai surtout apprécié les efforts que les étudiant
 Un laboratoire où une simulation de système solaire vous invite à interagir en controlant des statues.
 
 ## Intallation en cours dans le studio
-#### - Voici l'intallation en cours du projet 
+### - Voici l'intallation en cours du projet 
 ![Media](Media/canevas-cosmique_installation.jpg)
 Source: Ma photo
 ## Schéma de l'installation 
-#### - Canevas Cosmique plantation
+### - Canevas Cosmique plantation
 ![Media](Media/canevas-cosmique_plantation.png) 
 
 Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
@@ -77,11 +77,11 @@ Le lien est que le projet Sonalux offre une expérience d'art génératif où le
 
 
 ## Intallation en cours dans le studio
-#### - Voici l'intallation en cours du projet 
+### - Voici l'intallation en cours du projet 
 ![Media](Media/sonalux_installation.jpg)
 Source: Ma photo
 ## Schéma de l'installation 
-#### - Sonalux plantation
+### - Sonalux plantation
 ![Media](Media/sonalux_plantation.png) 
 
 Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
