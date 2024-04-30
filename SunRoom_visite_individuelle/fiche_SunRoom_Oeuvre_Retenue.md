@@ -1,29 +1,25 @@
 # Sun Room
-![Media](Media/kigo_installation.jpg)
 
 ## Nom de l'exposition
-
-
+Le nom de l'exposition est Age of Union.
+![Media](Media/kigo_installation.jpg)
 ## Lieu de mise en exposition
-
+Le lieu de mise en exposition est au Centre Age of Union
 
 ## Type d'exposition
-
+Le type d'exposition est a l'interieur du Centre Age Of Union. 
 
 ## Date de la visite
-
+La date de la visite etait le ... .
 
 ## Titre de l'oeuvre
-
-
+Le titre de l'oeuvre est Sun Room.
 
 ## Nom de l'artiste
-
-
+Le nom de l'artiste est Dax Dasilva. 
 
 ## Année de réalisation 
-
-
+L'année de la réalisation est en 2021. 
 
 ## Description de l'oeuvre
 
