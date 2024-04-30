@@ -44,6 +44,14 @@ Pour la mise en espace
 
 ## Éléments nécessaires à la mise en exposition
 Pour que l'oeuvre soit exposer, ils ont mis un projecteur accrocher au plafond grace a un support qui le tient. Quatres câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres), un cable d'alimentation pour l'ordinateur, le console de son et deux cables HDM1 et plusieurs fils electriques.
+
+- Câbles XLR
+  
+![Media](Media/calbes_xlr.jpg)
+
+Source: https://www.bing.com/images/search
+- Projecteur
+  
 ![Media](Media/projecteur_kigo.jpg)
 
 - Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
