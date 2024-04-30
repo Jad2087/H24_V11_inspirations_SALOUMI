@@ -51,7 +51,7 @@ Après l'expérimentation, j'ai surtout apprécié les efforts que les étudiant
 ### Créateurs  : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau
 
 ## Lien avec le thème Crescentia 
-Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
+Un laboratoire où une simulation de système solaire vous invite à interagir en controlant des statues.
 
 ## Intallation en cours dans le studio
 #### - Voici l'intallation en cours du projet 
@@ -73,7 +73,8 @@ Pour ce projet, je ressens de la curiosité et un peu de nervosité en explorant
 ### Créateurs : Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 
 ## Lien avec le thème Crescentia 
-Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
+Le lien est que le projet Sonalux offre une expérience d'art génératif où le temps est changé.
+
 
 ## Intallation en cours dans le studio
 #### - Voici l'intallation en cours du projet 
