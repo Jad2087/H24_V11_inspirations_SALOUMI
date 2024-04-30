@@ -81,7 +81,7 @@ Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/prepr
 ## Appréciation
 Pour ce projet, je ressens de la curiosité et un peu de nervosité en explorant la simulation du système solaire, puisque je vais être seul dans le laboratoire.
 
-# Analyse
+## Cours requis
 Les trois cours requis du programme de la technique d'intégration multimédia pour ce genre de projet sont tous les cours de Web, le cours d'interactivité ludique et le cours de Modélisation 3D. J'ai choisi le cours de Web, car c'est un cours où l'on apprend à programmer pour faire bouger ou manipuler des contenus. Par exemple, dans le projet Kigo, ils ont dû faire de la programmation pour faire bouger le personnage face à plusieurs obstacles. Ensuite, j'ai pris le cours d'interactivité ludique, un cours où l'élève conçoit et réalise un projet ludique sur ordinateur en intégrant des images et des échantillons sonores. Son objectif est de créer une expérience interactive et divertissante où l'utilisateur progresse selon ses actions. Puis, le cours de Modélisation 3D où l'on concevra des objets en trois dimensions.
 
 
