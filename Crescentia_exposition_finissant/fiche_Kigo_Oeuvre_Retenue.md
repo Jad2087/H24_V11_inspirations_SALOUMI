@@ -53,6 +53,7 @@ Pour la configuration de l'espace, celle-ci se déroule sur un mur équipé d'un
 Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 ## Composantes et techniques
 
+
 ## Éléments nécessaires à la mise en exposition
 Pour exposer l'œuvre, un projecteur était suspendu au plafond à l'aide d'un support spécifique. Quatre câbles XLR (M->F) d'une longueur estimée entre 4 et 6 mètres étaient utilisés, ainsi qu'un câble d'alimentation pour l'ordinateur et la console de son. Deux câbles HDMI étaient également nécessaires, ainsi que plusieurs fils électriques pour alimenter l'ensemble du dispositif.
 - Câbles XLR
@@ -108,6 +109,7 @@ En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela 
 
 ## Après l'expérimentation
 Après l'expérimentation, c'était le premier projet qui m'a le plus attiré et que j'ai le plus apprécié. J'ai beaucoup aimé le fait qu'il nécessite du mouvement et qu'il vise à atteindre le score le plus élevé possible. Ce projet m'a également inspiré pour envisager de réaliser un projet similaire si nécessaire.
+
 
 
 
