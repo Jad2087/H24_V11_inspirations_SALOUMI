@@ -38,8 +38,10 @@ Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 ## Fonction du dispositif multimédia
 
 ## Mise en espace
-Pour la mise en espace
+Pour la mise en espace, il se passe sur un mur avec un projecteur, l'espace occuper est la moitier vertical en face de l'ecran du grand studio. Des haut-parleurs accroches a coter de la projection murale, un ordinateur et un console de jeu a gauche de l'ecran et le Kinect V2 par terre en face de l'ecran.
 
+- Kigo mise en place
+![Media](Media/kigo_plantation.png)
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
