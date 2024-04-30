@@ -39,7 +39,8 @@ Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 - Voici le fonctionnement du dispositif, la partie qui est en noir est l'affichage du jeu du projet et la partie en rouge est le terrain de jeu.
 ![Media](Media/scenarimage_kigo.png)
 
-- 
+- Le deroulemennt du jeu
+![Media](Media/gameplay_kigo.png)
 ## Mise en espace
 Pour la configuration de l'espace, celle-ci se déroule sur un mur équipé d'un projecteur. La zone utilisée occupe la moitié verticale en face de l'écran du projet. Des haut-parleurs sont fixés à côté de la projection murale, un ordinateur et une console de jeu se trouvent à gauche de l'écran, et le Kinect V2 est placé au sol en face de l'écran.
 
