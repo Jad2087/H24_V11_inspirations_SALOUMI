@@ -2,8 +2,8 @@
 ### Créateurs : Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic
 
 ## Lien avec le thème Crescentia 
+Le lien avec le thème Crescentia réside dans le fait que le projet Rhizomatique explore la croissance et l'évolution des souvenirs à travers l'interaction humaine, représentant ainsi le thème de Crescentia par sa mise en avant de la transformation constante dans le temps et la mémoire.
 
-https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Intallation en cours dans le studio
 
@@ -82,3 +82,9 @@ Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/prepr
 Pour ce projet, je ressens de la curiosité et un peu de nervosité en explorant la simulation du système solaire, puisque je vais être seul dans le laboratoire.
 
 # Analyse
+Les trois cours requis du programme de la technique d'intégration multimédia pour ce genre de projet sont tous les cours de Web, le cours d'interactivité ludique et le cours de Modélisation 3D. J'ai choisi le cours de Web, car c'est un cours où l'on apprend à programmer pour faire bouger ou manipuler des contenus. Par exemple, dans le projet Kigo, ils ont dû faire de la programmation pour faire bouger le personnage face à plusieurs obstacles. Ensuite, j'ai pris le cours d'interactivité ludique, un cours où l'élève conçoit et réalise un projet ludique sur ordinateur en intégrant des images et des échantillons sonores. Son objectif est de créer une expérience interactive et divertissante où l'utilisateur progresse selon ses actions. Puis, le cours de Modélisation 3D où l'on concevra des objets en trois dimensions.
+
+
+
+
+
