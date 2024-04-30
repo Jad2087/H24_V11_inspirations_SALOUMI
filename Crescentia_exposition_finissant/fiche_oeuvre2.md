@@ -84,11 +84,12 @@ Pour ce projet, je ressens de la curiosité et un peu de nervosité en explorant
 ## Cours requis
 Les trois cours requis du programme de la technique d'intégration multimédia pour ce genre de projet sont tous les cours de Web, le cours d'interactivité ludique et le cours de Modélisation 3D. J'ai choisi le cours de Web, car c'est un cours où l'on apprend à programmer pour faire bouger ou manipuler des contenus. Par exemple, dans le projet Kigo, ils ont dû faire de la programmation pour faire bouger le personnage face à plusieurs obstacles. Ensuite, j'ai pris le cours d'interactivité ludique, un cours où l'élève conçoit et réalise un projet ludique sur ordinateur en intégrant des images et des échantillons sonores. Son objectif est de créer une expérience interactive et divertissante où l'utilisateur progresse selon ses actions. Puis, le cours de Modélisation 3D où l'on concevra des objets en trois dimensions. 
 
+- Source: https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
 ## Composante technologique
 La composante technologique que je ne connais pas est le Kinect v2, utiliser dans plusieurs projets comme le projet Kigo et Canevas Cosmique. C'est une composante technologique qui capte des mouvements pour la Xbox One. Il utilise des caméras, des capteurs de profondeur et des microphones pour permettre aux utilisateurs d'interagir avec les jeux sans manette.
 
 ![Media](Media/kinectv2.jpg) 
-Source: https://www.windowscentral.com/kinect-windows-v2-gets-updated-sdk-kinect-fusion-tool-kit
+- Source: https://www.windowscentral.com/kinect-windows-v2-gets-updated-sdk-kinect-fusion-tool-kit
 
 
 
