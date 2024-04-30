@@ -45,6 +45,7 @@ Pour la mise en espace
 ## Éléments nécessaires à la mise en exposition
 
 ## Expérience vécue
+Avant de commencer l'exploration, l'animateur a demandé qui voulait participer. Une fois qu'une personne se porte volontaire, elle doit se positionner entre les lignes délimitées et ne pas les dépasser pour pouvoir participer. Une fois le projet lancé, plusieurs obstacles apparaissaient à l'écran. Le participant devait les éviter et essayer d'accumuler le plus de points possible en évitant ces obstacles.
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 Ce qui m'a plu, c'était la créativité du projet. J'ai aimé le fait qu'il fallait bouger pour participer et atteindre le score le plus élevé, et regarder les autres participants était également intéressant. Une fois que j'ai su qu'ils avaient utilisé le matériel Kinect V2, cela m'a fait réfléchir au genre de projet que je pourrais réaliser. C'était très intéressant.
@@ -52,15 +53,17 @@ Ce qui m'a plu, c'était la créativité du projet. J'ai aimé le fait qu'il fal
 - Photo du Kinect V2
  
 ![Media](Media/xbox_kigo.jpg)
-Source: Ma photo
+
+- Source: Ma photo
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 L'aspect que je ne souhaiterais pas retenir est le manque d'espace qu'ils ont utilisé, même si ce projet n'était pas le seul dans le grand studio. J'aurais aimé qu'il y ait plus d'espace pour se déplacer et permettre aux spectateurs de regarder confortablement, sans être dérangés par d'autres personnes qui passent devant nous pendant l'exposition.
 
 - Photo du sol qui montre l'espace
   
 ![Media](Media/sol_kigo.jpg)
-Source: Ma photo
-# 2. Kigo
+
+- Source: Ma photo
+# 1. Kigo
 ### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
 
 ## Lien avec le thème Crescentia 
@@ -69,14 +72,15 @@ Le lien avec le thème Crescentia est que le projet offre une immersion visuelle
 # Intallation en cours dans le studio
 #### - Voici l'intallation en cours du projet 
 ![Media](Media/kigo_installation.jpg)
-Source: Ma photo
+
+- Source: Ma photo
 
 ## Schéma de l'installation 
 
 #### - Kigo plantation
 ![Media](Media/kigo_plantation.png) 
 
-Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
+- Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ## Avant l'expérimentation
 En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela demande également de l'action, et j'aime bouger pour éviter les obstacles et atteindre les différents univers visuels avec des esthétiques différentes aux quatre saisons. L'adrénaline va monter.
@@ -84,7 +88,6 @@ En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela 
 ## Après l'expérimentation
 Après l'expérimentation, c'était le premier projet qui m'a le plus attiré et que j'ai le plus apprécié. J'ai beaucoup aimé le fait qu'il nécessite du mouvement et qu'il vise à atteindre le score le plus élevé possible. Ce projet m'a également inspiré pour envisager de réaliser un projet similaire si nécessaire.
 
-## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
 
 
