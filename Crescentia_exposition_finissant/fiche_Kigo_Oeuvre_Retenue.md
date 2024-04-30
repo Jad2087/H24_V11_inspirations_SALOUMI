@@ -54,7 +54,7 @@ Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.htm
 ## Composantes et techniques
 Les composantes et les techniques utilisées sont les haut-parleurs, le Kinect V2, la console de jeu, un projecteur, ainsi que des câbles et des fils électriques. En emballant soigneusement ces composantes, l'ensemble du dispositif pourra être transporté en toute sécurité outre-mer pour une exposition.
 
-
+![Media](Media/emballage_materiel.png)
 ## Éléments nécessaires à la mise en exposition
 Pour exposer l'œuvre, un projecteur était suspendu au plafond à l'aide d'un support spécifique. Quatre câbles XLR (M->F) d'une longueur estimée entre 4 et 6 mètres étaient utilisés, ainsi qu'un câble d'alimentation pour l'ordinateur et la console de son. Deux câbles HDMI étaient également nécessaires, ainsi que plusieurs fils électriques pour alimenter l'ensemble du dispositif.
 - Câbles XLR
