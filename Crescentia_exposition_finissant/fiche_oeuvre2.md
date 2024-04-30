@@ -88,6 +88,7 @@ Les trois cours requis du programme de la technique d'intégration multimédia p
 ## Composante technologique
 La composante technologique que je ne connais pas est le Kinect v2, utiliser dans plusieurs projets comme le projet Kigo et Canevas Cosmique. C'est une composante technologique qui capte des mouvements pour la Xbox One. Il utilise des caméras, des capteurs de profondeur et des microphones pour permettre aux utilisateurs d'interagir avec les jeux sans manette.
 
+- Voici la composante technologique 
 ![Media](Media/kinectv2.jpg) 
 - Source: https://www.windowscentral.com/kinect-windows-v2-gets-updated-sdk-kinect-fusion-tool-kit
 
