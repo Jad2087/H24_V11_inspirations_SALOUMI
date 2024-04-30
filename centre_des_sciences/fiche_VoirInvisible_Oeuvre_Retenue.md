@@ -2,13 +2,13 @@
 
 
 ## Nom de l'exposition
-
+Le nom de l'exposition est Sun Room
 
 ## Lieu de mise en exposition
-
+Le lieu de mise en exposition est au Centre Age Of Union
 
 ## Type d'exposition
-
+Le type d'exposition est a l'interieur du Centre Age Of Union 
 
 ## Date de la visite
 
