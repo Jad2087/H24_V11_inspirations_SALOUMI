@@ -43,8 +43,7 @@ Pour la mise en espace
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
-Pour que l'oeuvre soit exposer, ils ont mis un projecteur accrocher au plafond grace a un support qui le tient. Quatres câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres), un cable d'alimentation pour l'ordinateur, le console de son et deux cables HDM1 et plusieurs fils electriques.
-
+Pour exposer l'œuvre, un projecteur était suspendu au plafond à l'aide d'un support spécifique. Quatre câbles XLR (M->F) d'une longueur estimée entre 4 et 6 mètres étaient utilisés, ainsi qu'un câble d'alimentation pour l'ordinateur et la console de son. Deux câbles HDMI étaient également nécessaires, ainsi que plusieurs fils électriques pour alimenter l'ensemble du dispositif.
 - Câbles XLR
   
 ![Media](Media/calbes_xlr.jpg)
