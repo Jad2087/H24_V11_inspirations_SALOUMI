@@ -16,6 +16,10 @@ La date de la visite etait le 2 mars 2024.
 ## Titre de l'oeuvre
 Le titre de l'oeuvre est Sun Room.
 
+![Media](Media/entrer_expo.jpg)
+
+- ### Source: Ma photo
+  
 ## Nom de l'artiste
 Les noms de l'artiste sony Adam Hummell et Kelly Nunes. 
 
@@ -24,22 +28,24 @@ L'année de la réalisation est en 2021.
 
 ## Description de l'oeuvre
 "Tourne-toi vers le soleil, l'ombre sera derrière toi. -Proverbe Maorie- "
-- Consigne
+
+- ### Consigne
   
 ![Media](Media/note_2.jpg)
-Source: Ma photo
+- ### Source: Ma photo
 
 ## Type d'installation 
 Le type d'installation est immersif. 
 
-- Installation
+- ### Installation
 ![Media](Media/video_sunroom.MOV)
-Source: Ma photo
+- ### Source: Ma photo
 
 ## Fonction du dispositif multimédia
-- Voici le fonction du dispositif multimédia
-
-Source: Ma photo
+- ### Voici le fonction du dispositif multimédia
+  
+![Media](Media/.jpg)
+- ### Source: Ma photo
   
 ## Mise en espace
 Pour la mise en espace, à l'entrée il y a un banc et un projecteur accroché au plafond. Ensuite, il y a deux petits écrans, chacun avec un support pour se tenir et un banc pour s'asseoir en face de l'écran. L'espace occupé est dans une petite pièce, d'une taille approximativement équivalente à la moitié du petit studio du Collège Montmorency. 
