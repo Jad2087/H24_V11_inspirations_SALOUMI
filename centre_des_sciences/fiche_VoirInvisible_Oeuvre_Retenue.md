@@ -44,7 +44,12 @@ Ma source: Ma photo
 
 
 ## Composantes et techniques
+Les composantes et les techniques utilisés comprennent des caméras à l'intérieur des trois écrans, ainsi que des lumières vives suspendues au plafond.
 
+- Lumières
+
+![Media](Media/projecteur_ecrans.jpg)
+Ma source: Ma photo
 
 ## Éléments nécessaires à la mise en exposition
 Les éléments nécessaires à la mise en exposition comprennent un projecteur pour l'écran visible, des câbles pour chaque écran et des caches-fils dissimulés dans le sol.
