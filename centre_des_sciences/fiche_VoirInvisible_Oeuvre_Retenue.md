@@ -44,9 +44,11 @@ Ma source: Ma photo
 
 
 ## Expérience vécue
-Avant de commencer l'exposition, nous avons été accueillis par une guide qui nous a présenté les différentes œuvres. Elle nous a expliqué leur fonctionnement. Ensuite, un monsieur nous a guidés vers les œuvres les plus intéressantes. Il nous a montré leur fonctionnement et leur emplacement. Arrivés à l'œuvre qui m'intéressait, il a ouvert à clé la porte arrière du dispositif. Enfin, vers la fin de la visite, il nous a conduits dans la salle de contrôle et nous a montré comment ils supervisent les expositions.
+Avant de débuter l'exposition, nous avons été accueillis par une guide qui nous a présenté les différentes œuvres. Elle nous a expliqué leur fonctionnement. Ensuite, un monsieur nous a guidés vers les œuvres les plus intéressantes, nous montrant leur fonctionnement et leur emplacement. Lorsque nous sommes arrivés à l'œuvre qui m'intéressait, je me suis placé devant chacun des trois écrans pour observer les effets. Chaque écran proposait un effet différent. Enfin, vers la fin de la visite, il nous a conduits dans la salle de contrôle et nous a montré comment ils supervisent les expositions.
 
-![Media](Media/devant_3_ecrans.jpg)
+- Effet de du premier écran
+
+![Media](Media/ecran_noir.jpg)
 Ma source: Ma photo
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
