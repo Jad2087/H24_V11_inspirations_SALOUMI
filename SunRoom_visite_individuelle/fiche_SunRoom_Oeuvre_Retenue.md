@@ -54,18 +54,32 @@ Les composantes et les techniques utilisées lors du projet comprennent une long
 Source: Ma photo
 
 - Lumière à LED
-- 
+  
 ![Media](Media/lumiere_rouge2.jpg)
 Source: Ma photo
 ## Éléments nécessaires à la mise en exposition
 Les éléments intéressants sont les deux bancs, l'un à gauche de l'entrée et l'autre derrière les deux petits écrans, ainsi que les câbles électriques.
 
-![Media](Media/derriere_ecrans.jpg)
+- 1) banc
+ 
+![Media](Media/peit_escalier.jpg)
+Source: Ma photo
 
-![Media](Media/derriere_ecrans.jpg)
-
+- 2) banc
+  
+![Media](Media/banc_sunroom.jpg)
+Source: Ma photo
 ## Expérience vécue
+Une fois arrivé à l'exploration, une jeune femme assise devant une table m'a accueilli et m'a expliqué le fonctionnement de l'exposition. Ensuite, je suis monté à l'étage pour visiter l'œuvre. En entrant, j'ai retiré mes chaussures comme indiqué dans les consignes. À l'intérieur, j'ai remarqué une grosse boule accrochée au plafond, et j'ai immédiatement compris que cela représentait le soleil, en lien avec le titre de l'œuvre "Sun Room". Par la suite, je me suis assis devant l'un des petits écrans et j'ai cliqué sur un bouton pour qu'il s'ouvre. 
 
+- Ecrans
+ 
+![Media](Media/peit_escalier.jpg)
+Source: Ma photo
+
+ 
+![Media](Media/peit_escalier.jpg)
+Source: Ma photo
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 
