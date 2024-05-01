@@ -37,11 +37,21 @@ Pour bien appréhender l'œuvre, il y a trois écrans, chacun proposant un effet
 
 - Trois écrans
    
-![Media](Media/normal.jpg)
+![Media](Media/ecran_visible.jpg)
 Ma source: Ma photo
 
 ## Mise en espace
+Pour la disposition de l'espace, celui-ci est relativement restreint, occupant environ 3 mètres. Il est positionné sur le côté plutôt que directement en face, et chaque écran est équipé d'une caméra. De plus, de petites consignes sont inscrites sur le sol.
 
+- Consigne
+  
+![Media](Media/consigne_2.jpg)
+Ma source: Ma photo
+
+- Espace
+  
+![Media](Media/arriere_3_ecran.jpg)
+Ma source: Ma photo
 
 ## Composantes et techniques
 Les composantes et les techniques utilisés comprennent des caméras à l'intérieur des trois écrans, ainsi que des lumières vives suspendues au plafond.
