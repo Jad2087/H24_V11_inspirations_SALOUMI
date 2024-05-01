@@ -23,8 +23,7 @@ Le nom de l'artiste est Dax Dasilva.
 L'année de la réalisation est en 2021. 
 
 ## Description de l'oeuvre
-La description de l'œuvre est celle d'un projet où un long lumière à LED de couleur orange représente le soleil. Il y a deux écrans devant lesquels les spectateurs doivent se placer, et une forte lumière blanche s'allume. 
-
+"Tourne-toi vers le soleil, l'ombre sera derrière toi. -Proverbe Maorie- "
 - Consigne
   
 ![Media](Media/note_2.jpg)
