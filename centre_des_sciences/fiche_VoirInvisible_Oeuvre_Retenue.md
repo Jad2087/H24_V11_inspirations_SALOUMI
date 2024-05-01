@@ -47,11 +47,17 @@ Ma source: Ma photo
 
 
 ## Éléments nécessaires à la mise en exposition
-Les elements necessaires a la mise en exposition sont le projecteur pour l'ecran visible, des cables pour chaque ecran et des caches-fils qui se cachent dans le sol. 
+Les éléments nécessaires à la mise en exposition comprennent un projecteur pour l'écran visible, des câbles pour chaque écran et des caches-fils dissimulés dans le sol.
 
-![Media](Media/.jpg)
+- Projecteur
+  
+![Media](Media/arriere_projecteur.jpg)
 Ma source: Ma photo
 
+- Les cables
+  
+![Media](Media/interieur_ecran2.jpg)
+Ma source: Ma photo
 ## Expérience vécue
 Avant de débuter l'exposition, nous avons été accueillis par une guide qui nous a présenté les différentes œuvres. Elle nous a expliqué leur fonctionnement. Ensuite, un monsieur nous a guidés vers les œuvres les plus intéressantes, nous montrant leur fonctionnement et leur emplacement. Lorsque nous sommes arrivés à l'œuvre qui m'intéressait, je me suis placé devant chacun des trois écrans pour observer les effets. Chaque écran proposait un effet différent. Enfin, vers la fin de la visite, il nous a conduits dans la salle de contrôle et nous a montré comment ils supervisent les expositions.
 
