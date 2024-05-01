@@ -96,17 +96,17 @@ L'aspect que je ne souhaiterais pas retenir est le manque d'espace qu'ils ont ut
 Le lien avec le thème Crescentia est que le projet offre une immersion visuelle et sonore qui renforce cette thématique.
 
 # Intallation en cours dans le studio
-#### - Voici l'intallation en cours du projet 
+- ### Voici l'intallation en cours du projet 
 ![Media](Media/kigo_installation.jpg)
 
-- Source: Ma photo
+- ### Source: Ma photo
 
 ## Schéma de l'installation 
 
-#### - Kigo plantation
+- ### Kigo plantation
 ![Media](Media/kigo_plantation.png) 
 
-- Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
+- ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ## Avant l'expérimentation
 En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela demande également de l'action, et j'aime bouger pour éviter les obstacles et atteindre les différents univers visuels avec des esthétiques différentes aux quatre saisons. L'adrénaline va monter.
