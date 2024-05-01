@@ -14,7 +14,7 @@ Le lieu de mise en exposition est dans le grand studio du Collège Montmorency.
 Le type d'exposition se situe à l'intérieur d'une salle, plus précisément dans le grand studio.
 
 ## Date de la visite
-La date de la première visite était le 28 février mars 2024 et la date de la deuxième visite était le 13 mqrs 2024. 
+La date de la première visite était le 28 février mars 2024 et la date de la deuxième visite était le 13 mars 2024. 
 
 ## Titre de l'oeuvre
 Le titre de l'oeuvre est Kigo.
@@ -29,7 +29,7 @@ Le titre de l'oeuvre est Kigo.
 - ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ## Année de réalisation 
-L'année de la réalisation est en 2022.
+L'année de la réalisation est en 2024.
 
 ## Description de l'oeuvre
 Kigo est un projet multimédia interactif où l’interacteur doit esquiver des obstacles virtuels qui se rapproche vers lui dans une thématique des quatre saisons de l’année. L’interacteur doit embarquer se déplacer dans une zone de jeu où une Kinect captera ses mouvements. L’avatar du jeu suivra les mouvements de l’interacteur. Les mouvements possibles sont d’aller de gauche à droite et l’accroupissement. L’esthétique du projet sera une projection d’un univers 3d de style néon rétro, qui ressemblera à une route où les obstacles s’avancent vers le joueur. Il y aura des arbres des deux côtés de la route et ceux-ci vont changer à chaque niveau puisque ces niveaux sont basés chacun sur une saison différente. Une musique synthwave jouera pour chaque niveau et sera accompagnée d’ambiances et des bruitages semblables à leur saisons. Le temps de cette expérience est démontré par le fait que chaque niveau se passe dans une différente saison, ce qui fait passer une année. Cette expérience a pour but d’amener de faire ressentir à l’interacteur, de l’engagement et de la détermination pour finir ces niveaux qui deviennent de plus en plus difficiles.
@@ -37,9 +37,10 @@ Kigo est un projet multimédia interactif où l’interacteur doit esquiver des 
 - ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ## Type d'installation 
-Le type d'installation est l'interactif.
+Le type d'installation est interactif.
 
 - ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
+  
 - ### Voici le fonction du dispositif multimédia
 ![Media](Media/kigo_installation.jpg)
 
@@ -71,7 +72,8 @@ Les composantes et les techniques utilisées sont les haut-parleurs, le Kinect V
 
 ## Éléments nécessaires à la mise en exposition
 Pour exposer l'œuvre, un projecteur était suspendu au plafond à l'aide d'un support spécifique. Quatre câbles XLR (M->F) d'une longueur estimée entre 4 et 6 mètres étaient utilisés, ainsi qu'un câble d'alimentation pour l'ordinateur et la console de son. Deux câbles HDMI étaient également nécessaires, ainsi que plusieurs fils électriques pour alimenter l'ensemble du dispositif.
-- Câbles XLR
+
+- ### Câbles XLR
   
 ![Media](Media/calbes_xlr.jpg)
 
@@ -94,10 +96,11 @@ Ce qui m'a plu, c'était la créativité du projet. J'ai aimé le fait qu'il fal
 ![Media](Media/xbox_kigo.jpg)
 
 - ### Source: Ma photo
+  
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 L'aspect que je ne souhaiterais pas retenir est le manque d'espace qu'ils ont utilisé, même si ce projet n'était pas le seul dans le grand studio. J'aurais aimé qu'il y ait plus d'espace pour se déplacer et permettre aux spectateurs de regarder confortablement, sans être dérangés par d'autres personnes qui passent devant nous pendant l'exposition.
 
-- Photo du sol qui montre l'espace
+- ### Photo du sol qui montre l'espace
   
 ![Media](Media/sol_kigo.jpg)
 
