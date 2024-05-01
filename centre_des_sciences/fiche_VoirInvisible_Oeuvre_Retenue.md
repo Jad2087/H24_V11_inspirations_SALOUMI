@@ -1,4 +1,4 @@
-# Sun Room
+# Centre des sciences
 
 ## Nom de l'exposition
 Le nom de l'exposition est Centre des sciences Montreal.
