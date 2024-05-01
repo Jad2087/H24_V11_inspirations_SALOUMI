@@ -87,8 +87,8 @@ Le lien est que le projet Sonalux offre une expérience d'art génératif où le
 ## Schéma de l'installation
 - ### Sonalux plantation
 ![Media](Media/sonalux_plantation.png) 
-- ### Source: Ma photo
-Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
+
+- ### Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
 
 ## Avant l'expérimentation
 En explorant les instruments du projet et en créant ma propre musique, je peux ressentir une connexion et du plaisir tout en trouvant du bonheur dans la créativité.
@@ -103,7 +103,7 @@ Les trois cours requis du programme de la technique d'intégration multimédia p
 ## Composante technologique
 La composante technologique que je ne connais pas est le Kinect v2, utiliser dans plusieurs projets comme le projet Kigo et Canevas Cosmique. C'est une composante technologique qui capte des mouvements pour la Xbox One. Il utilise des caméras, des capteurs de profondeur et des microphones pour permettre aux utilisateurs d'interagir avec les jeux sans manette.
 
--### Voici la composante technologique 
+- ### Voici la composante technologique 
 ![Media](Media/kinectv2.jpg) 
 - ### Source: https://www.windowscentral.com/kinect-windows-v2-gets-updated-sdk-kinect-fusion-tool-kit
 
