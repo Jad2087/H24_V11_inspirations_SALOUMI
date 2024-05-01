@@ -34,6 +34,7 @@ Type Installation: Intérieur
 Information: Lumière Led orange, petits écrans visible, deux bancs, câbles électriques.
 
 ![Media](Media/2_ecrans.jpg)
+![Media](Media/derriere_ecrans.jpg)
 ![Media](Media/banc_sunroom.jpg)
 ![Media](Media/peit_escalier.jpg)
     
