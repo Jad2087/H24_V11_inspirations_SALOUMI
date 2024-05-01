@@ -78,9 +78,12 @@ Une fois arrivé à l'exploration, une jeune femme assise devant une table m'a a
 Source: Ma photo
 
  ## ❤️ Ce qui vous a plu, vous a donné des idées
+Ce qui m'a plus durant l'exposition, c'était la couleur de la lumière qui représentait le soleil. C'était agréable à voir et l'ambiance était calme, il n'y avait pas beaucoup de choses autour. J'ai beaucoup aimé cette atmosphère. Cependant, le projet ne m'a pas vraiment donné d'idées.
 
-
+- Projecteur
+  
+![Media](Media/.jpg)
+Source: Ma photo
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-
-
+Les aspects que je ne souhaite pas retenir sont que je n'ai pas vraiment compris le projet, car il manquait d'informations lors de l'exposition. De plus, le Centre Age of Union n'a pas non plus fourni d'informations sur cette œuvre sur leur site. J'aimerais en savoir plus sur cette œuvre, afin d'avoir au moins une idée de quoi il s'agit avant d'arriver sur place. Lorsque je me suis senti perdu, j'ai cherché de l'aide, mais il n'y en avait pas disponible directement. Il fallait se rendre à l'entrée principale pour demander de l'aide. En somme, je suggérerais de fournir davantage d'informations sur les œuvres, tant lors des expositions que sur les sites web correspondants.
 
