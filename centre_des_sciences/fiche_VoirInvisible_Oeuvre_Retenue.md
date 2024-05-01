@@ -1,20 +1,23 @@
 # Centre des sciences
 
 ## Nom de l'exposition
-Le nom de l'exposition est Centre des sciences Montreal.
+Le nom de l'exposition est Centre des sciences Montréal.
 
 ## Lieu de mise en exposition
-Le lieu de mise en exposition est au Fondation du Centre des sciences Montreal.
+Le lieu de mise en exposition est au Fondation du Centre des sciences Montréal.
 
 ## Type d'exposition
-Le type d'exposition est a l'interieur. 
+Le type d'exposition est à l'intérieur. 
 
 ## Date de la visite
-La date de la visite etait le 10 avril 2024.
+La date de la visite était le 10 avril 2024.
 
 ## Titre de l'oeuvre
-Le titre de l'oeuvre est Voir Invisible.
+Le titre de l'oeuvre est Voir l'nvisible.
 
+![Media](Media/histoire_expo.jpg)
+- ### Source: Ma photo
+  
 ## Nom de l'artiste
 Le nom de l'artiste est  . 
 
@@ -25,7 +28,7 @@ L'année de la réalisation est en 2000, mais en 2002, le nom est changé en Cen
 Il y a tout un monde invisible qui échappe à notre regard. Mais grâce à notre ingéniosité, on a pu construire des appareils qui nous révèlent ce qu'on ne peut pas voir à l'œil nu.
 
 ![Media](Media/histoire_expo.jpg)
-Source: Ma photo
+- ### Source: Ma photo
 
 ## Type d'installation 
 Le type d'installation est interactif.
