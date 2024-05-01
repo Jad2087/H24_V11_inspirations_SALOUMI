@@ -74,14 +74,10 @@ Une fois arrivé à l'exploration, une jeune femme assise devant une table m'a a
 
 - Ecrans
  
-![Media](Media/peit_escalier.jpg)
+![Media](Media/2_ecrans.jpg)
 Source: Ma photo
 
- 
-![Media](Media/peit_escalier.jpg)
-Source: Ma photo
-
-## ❤️ Ce qui vous a plu, vous a donné des idées
+ ## ❤️ Ce qui vous a plu, vous a donné des idées
 
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
