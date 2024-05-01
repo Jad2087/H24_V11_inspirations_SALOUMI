@@ -1,5 +1,8 @@
 # Kigo
+### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
 
+## Lien avec le thème Crescentia 
+Le lien avec le thème Crescentia est que le projet offre une immersion visuelle et sonore qui renforce cette thématique.
 ## Nom de l'exposition
 Le nom de l'exposition est Cresentia.
 
@@ -16,7 +19,14 @@ La date de la visite était le ... 2024.
 Le titre de l'oeuvre est Kigo.
 
 - ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
+  
+## Schéma de l'installation 
 
+- ### Kigo plantation
+![Media](Media/kigo_plantation.png) 
+
+- ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
+- 
 ## Nom de l'artiste
 Le nom de l'artiste est 
 
@@ -91,25 +101,6 @@ L'aspect que je ne souhaiterais pas retenir est le manque d'espace qu'ils ont ut
 
 - ### Source: Ma photo
   
-# 1. Kigo
-### Créateurs  : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
-
-## Lien avec le thème Crescentia 
-Le lien avec le thème Crescentia est que le projet offre une immersion visuelle et sonore qui renforce cette thématique.
-
-# Intallation en cours dans le studio
-- ### Voici l'intallation en cours du projet 
-![Media](Media/kigo_installation.jpg)
-
-- ### Source: Ma photo
-
-## Schéma de l'installation 
-
-- ### Kigo plantation
-![Media](Media/kigo_plantation.png) 
-
-- ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
-
 ## Avant l'expérimentation
 En participant à ce projet, j'éprouve du plaisir et de l'excitation, car cela demande également de l'action, et j'aime bouger pour éviter les obstacles et atteindre les différents univers visuels avec des esthétiques différentes aux quatre saisons. L'adrénaline va monter.
 
