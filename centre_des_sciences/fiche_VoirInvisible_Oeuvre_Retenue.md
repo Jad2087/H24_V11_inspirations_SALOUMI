@@ -22,9 +22,10 @@ Le nom de l'artiste est  .
 L'année de la réalisation est en 2000, mais en 2002, le nom est changé en Centre des sciences de Montréal. 
 
 ## Description de l'oeuvre
-Le Centre des sciences de Montréal est un musée scientifique situé à Montréal, au Québec, et est une division de la Société immobilière du Canada1. Il est voué à la vulgarisation scientifique, à la promotion du savoir et au développement de la culture scientifique et technique. Il a pour mandat d’aider les visiteurs de tous âges à découvrir, à mieux comprendre et à s’approprier la science et la technologie pour bâtir leur avenir. Il se trouve sur l'emplacement d'anciens hangars maritimes au quai King-Edward, dans le Vieux-Port de Montréal.
+Il y a tout un monde invisible qui échappe à notre regard. Mais grâce à notre ingéniosité, on a pu construire des appareils qui nous révèlent ce qu'on ne peut pas voir à l'œil nu.
 
-Source: https://fr.wikipedia.org/wiki/Centre_des_sciences_de_Montr%C3%A9al
+![Media](Media/histoire_expo.jpg)
+Source: Ma photo
 
 ## Type d'installation 
 Le type d'installation est interactif.
