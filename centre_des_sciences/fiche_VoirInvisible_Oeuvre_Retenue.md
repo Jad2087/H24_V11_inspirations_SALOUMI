@@ -1,7 +1,7 @@
 # Centre des sciences
 
 ## Nom de l'exposition
-Le nom de l'exposition est Centre des sciences Montréal
+Le nom de l'exposition est Centre des sciences Montréal.
 
 - ### Affiche de l'exposition
   
@@ -17,20 +17,20 @@ Le type d'exposition est à l'intérieur.
 ## Date de la visite
 La date de la visite était le 10 avril 2024.
 
-## Titre de l'oeuvre
-Le titre de l'oeuvre est Voir l'nvisible.
+## Titre de l'œuvre
+Le titre de l'œuvre est Voir l'invisible.
 
 ![Media](Media/histoire_expo.jpg)
 - ### Source: Ma photo
   
 ## Nom de l'artiste
-Le nom de l'artiste est  . 
+Introuvable. 
 
 ## Année de réalisation 
 L'année de la réalisation est en 2000, mais en 2002, le nom est changé en Centre des sciences de Montréal. 
 
 ## Description de l'oeuvre
-Il y a tout un monde invisible qui échappe à notre regard. Mais grâce à notre ingéniosité, on a pu construire des appareils qui nous révèlent ce qu'on ne peut pas voir à l'œil nu.
+"Il y a tout un monde invisible qui échappe à notre regard. Mais grâce à notre ingéniosité, on a pu construire des appareils qui nous révèlent ce qu'on ne peut pas voir à l'œil nu".
 
 ![Media](Media/histoire_expo.jpg)
 - ### Source: Ma photo
