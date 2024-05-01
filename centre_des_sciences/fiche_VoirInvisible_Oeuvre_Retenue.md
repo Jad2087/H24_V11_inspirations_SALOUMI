@@ -29,6 +29,8 @@ Source: https://fr.wikipedia.org/wiki/Centre_des_sciences_de_Montr%C3%A9al
 ## Type d'installation 
 Le type d'installation est interactif.
 
+![Media](Media/devant_3_ecrans.jpg)
+Ma source: Ma photo
 
 ## Mise en espace
 
