@@ -13,8 +13,8 @@ Le type d'exposition est à l'intérieur.
 ## Date de la visite
 La date de la visite était le 2 mars 2024.
 
-## Titre de l'oeuvre
-Le titre de l'oeuvre est Sun Room.
+## Titre de l'œuvre
+Le titre de l'œuvre est Sun Room.
 
 ![Media](Media/entrer_expo.jpg)
 
@@ -89,5 +89,5 @@ Ce qui m'a plus durant l'exposition, c'était la couleur de la lumière qui repr
 - ### Source: Ma photo
   
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Les aspects que je ne souhaite pas retenir sont que je n'ai pas vraiment compris le projet, car il manquait d'informations lors de l'exposition. De plus, le Centre Age of Union n'a pas non plus fourni d'informations sur cette œuvre sur leur site. J'aimerais en savoir plus sur cette œuvre, afin d'avoir au moins une idée de quoi il s'agit avant d'arriver sur place. Lorsque je me suis senti perdu, j'ai cherché de l'aide, mais il n'y en avait pas disponible directement. Il fallait se rendre à l'entrée principale pour demander de l'aide. En somme, je suggérerais de fournir davantage d'informations sur les œuvres, tant lors des expositions que sur les sites web correspondants.
+Les aspects que je ne souhaite pas retenir sont que je n'ai pas vraiment compris le projet, car il manquait d'informations lors de l'exposition. De plus, le Centre Age of Union n'a pas non plus fourni d'informations sur cette œuvre sur leur site. J'aimerais en savoir plus sur cette œuvre, afin d'avoir au moins une idée de quoi il s'agit avant d'arriver sur place. Lorsque je me suis senti perdu, j'ai cherché de l'aide, mais il n'y en avait pas disponible directement. Il fallait se rendre à l'entrée principale pour demander de l'aide. En somme, je suggérerais de fournir davantage d'informations sur les œuvres, tant lors des expositions sur les sites web correspondants.
 
