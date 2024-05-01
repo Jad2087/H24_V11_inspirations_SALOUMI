@@ -37,11 +37,6 @@ L'année de la réalisation est en 2021.
 ## Type d'installation 
 Le type d'installation est immersif. 
 
-- ### Installation
-  
-![Media](Media/dispositif_sunroom.JPG)
-- ### Source: Ma photo
-
 ## Fonction du dispositif multimédia
 - ### Voici le fonction du dispositif multimédia
   
