@@ -32,6 +32,10 @@ Lumière orange: Soleil
 Type Installation: Intérieur
  
 Information: Lumière Led orange, petits écrans visible, deux bancs, câbles électriques.
+
+![Media](Media/2_ecrans.jpg)
+![Media](Media/banc_sunroom.jpg)
+![Media](Media/peit_escalier.jpg)
     
 Expérience vécue: Pas vraiment aimé, pas d'aide, peu de consigne, peu d'information, compliquer à  comprendre.
 ![Media](Media/note_2.jpg)
