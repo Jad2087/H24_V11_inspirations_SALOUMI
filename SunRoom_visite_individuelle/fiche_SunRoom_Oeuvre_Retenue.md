@@ -11,7 +11,7 @@ Le lieu de mise en exposition est au Centre Age of Union
 Le type d'exposition est à l'intérieur. 
 
 ## Date de la visite
-La date de la visite etait le 2 mars 2024.
+La date de la visite était le 2 mars 2024.
 
 ## Titre de l'oeuvre
 Le titre de l'oeuvre est Sun Room.
@@ -21,7 +21,7 @@ Le titre de l'oeuvre est Sun Room.
 - ### Source: Ma photo
   
 ## Nom de l'artiste
-Les noms de l'artiste sony Adam Hummell et Kelly Nunes. 
+Les noms des artistes sont Adam Hummell et Kelly Nunes. 
 
 ## Année de réalisation 
 L'année de la réalisation est en 2021. 
