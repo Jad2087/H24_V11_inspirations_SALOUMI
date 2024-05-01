@@ -23,7 +23,7 @@ Le nom de l'artiste est Dax Dasilva.
 L'année de la réalisation est en 2021. 
 
 ## Description de l'oeuvre
-La description de l'œuvre est celle d'un projet où un grand projecteur de couleur orange représente le soleil. Il y a deux écrans devant lesquels les spectateurs doivent se placer, et une forte lumière blanche s'allume. 
+La description de l'œuvre est celle d'un projet où un long lumière à LED de couleur orange représente le soleil. Il y a deux écrans devant lesquels les spectateurs doivent se placer, et une forte lumière blanche s'allume. 
 
 - Consigne
   
@@ -34,16 +34,19 @@ Source: Ma photo
 Le type d'installation est immersif. 
 
 - Installation
-![Media](Media/note_2.jpg)
+![Media](Media/video_sunroom.MOV)
 Source: Ma photo
 
+## Fonction du dispositif multimédia
+- Voici le fonction du dispositif multimédia
 
+Source: Ma photo
+  
 ## Mise en espace
-
-
-
+Pour la mise en espace, à l'entrée il y a un banc et un projecteur accroché au plafond. Ensuite, il y a deux petits écrans, chacun avec un support pour se tenir et un banc pour s'asseoir en face de l'écran. L'espace occupé est dans une petite pièce, d'une taille approximativement équivalente à la moitié du petit studio du Collège Montmorency. 
 
 ## Composantes et techniques
+Les composantes et les techniques utilisées lors du projet comprennent une longue lumière à LED de couleur orange très foncée de deux mètres et demi, des câbles électriques pour les deux petits écrans et les lumières, ainsi que des supports pour maintenir les écrans.
 
 
 ## Éléments nécessaires à la mise en exposition
