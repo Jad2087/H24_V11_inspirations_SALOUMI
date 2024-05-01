@@ -35,8 +35,11 @@ Ma source: Ma photo
 ## Fonction du dispositif multimédia
 Pour bien appréhender l'œuvre, il y a trois écrans, chacun proposant un effet différent. Il faut se positionner devant chaque écran pour observer son effet.
 
+- Trois écrans
+   
 ![Media](Media/les_3_ecrans.jpg)
 Ma source: Ma photo
+
 ## Mise en espace
 
 
@@ -44,7 +47,10 @@ Ma source: Ma photo
 
 
 ## Éléments nécessaires à la mise en exposition
+Les elements necessaires a la mise en exposition sont le projecteur pour l'ecran visible, des cables pour chaque ecran et des caches-fils qui se cachent dans le sol. 
 
+![Media](Media/.jpg)
+Ma source: Ma photo
 
 ## Expérience vécue
 Avant de débuter l'exposition, nous avons été accueillis par une guide qui nous a présenté les différentes œuvres. Elle nous a expliqué leur fonctionnement. Ensuite, un monsieur nous a guidés vers les œuvres les plus intéressantes, nous montrant leur fonctionnement et leur emplacement. Lorsque nous sommes arrivés à l'œuvre qui m'intéressait, je me suis placé devant chacun des trois écrans pour observer les effets. Chaque écran proposait un effet différent. Enfin, vers la fin de la visite, il nous a conduits dans la salle de contrôle et nous a montré comment ils supervisent les expositions.
