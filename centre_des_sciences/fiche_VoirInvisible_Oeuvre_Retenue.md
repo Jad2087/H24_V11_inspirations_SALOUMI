@@ -44,15 +44,20 @@ Ma source: Ma photo
 
 
 ## Expérience vécue
+Avant de commencer l'exposition, nous avons été accueillis par une guide qui nous a présenté les différentes œuvres. Elle nous a expliqué leur fonctionnement. Ensuite, un monsieur nous a guidés vers les œuvres les plus intéressantes. Il nous a montré leur fonctionnement et leur emplacement. Arrivés à l'œuvre qui m'intéressait, il a ouvert à clé la porte arrière du dispositif. Enfin, vers la fin de la visite, il nous a conduits dans la salle de contrôle et nous a montré comment ils supervisent les expositions.
 
+![Media](Media/devant_3_ecrans.jpg)
+Ma source: Ma photo
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
-Ce qui m'a plu durant l'exposition, c'était qu'une fois devant l'écran de radiation et qu'il fallait toucher quelque part sur moi, cela montrait à l'écran les parties de mon corps qui avaient été touchées. J'ai trouvé cela très agréable et créatif. Cela m'a donné une idée de comment je pourrais procéder si je veux réaliser un projet sur l'être humain. Par exemple, une fois devant l'écran, on pourrait voir ce qui se passe à l'intérieur de ton corps, comme un scanner CT. 
+Ce qui m'a plu durant l'exposition, c'était qu'une fois devant l'écran de radiation et qu'il fallait toucher une partie de mon corps, cela montrait à l'écran les parties de mon corps qui avaient été touchées. J'ai trouvé cela très agréable et créatif. Cela m'a donné une idée de comment je pourrais procéder si je veux réaliser un projet sur l'être humain. Par exemple, une fois devant l'écran, on pourrait voir ce qui se passe à l'intérieur de ton corps, comme un scanner CT. 
 
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 L'aspect que je ne souhaiterais pas retenir est l'emplacement de l'œuvre. Je n'ai pas aimé la façon dont l'œuvre a été placée au Centre des sciences. J'aurais aimé qu'elle soit placée au milieu, car elle a été reléguée sur le côté. Une fois devant l'écran de radiation, qui était le dernier de la série, il fallait contourner l'endroit pour accéder à une autre œuvre. 
 
+- L'emplacement de l'oeuvre
+  
 ![Media](Media/devant_3_ecrans.jpg)
 Source: Ma photo
 
