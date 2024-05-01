@@ -53,5 +53,5 @@ Faire: Mettre plus d'informations dans le site (Age of Union)
  
  Lien: Soleil avec des planètes. 
 
-
+![Media](Media/canevas-cosmique_installation.jpg)
  
