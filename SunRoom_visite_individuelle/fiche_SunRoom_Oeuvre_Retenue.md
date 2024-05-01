@@ -48,7 +48,12 @@ Pour la mise en espace, à l'entrée il y a un banc et un projecteur accroché a
 ## Composantes et techniques
 Les composantes et les techniques utilisées lors du projet comprennent une longue lumière à LED de couleur orange très foncée de deux mètres et demi, des câbles électriques pour les deux petits écrans et les lumières, ainsi que des supports pour maintenir les écrans.
 
+-Supports écrans
+
 ![Media](Media/derriere_ecrans.jpg)
+Source: Ma photo
+
+![Media](Media/lumiere_rouge2.jpg)
 ## Éléments nécessaires à la mise en exposition
 
 
