@@ -3,6 +3,7 @@
 
 ## Lien avec le thème Crescentia 
 Le lien avec le thème Crescentia est que le projet offre une immersion visuelle et sonore qui renforce cette thématique.
+
 ## Nom de l'exposition
 Le nom de l'exposition est Cresentia.
 
@@ -13,7 +14,7 @@ Le lieu de mise en exposition est dans le grand studio du Collège Montmorency.
 Le type d'exposition se situe à l'intérieur d'une salle, plus précisément dans le grand studio.
 
 ## Date de la visite
-La date de la visite était le ... 2024. 
+La date de la première visite était le 28 février mars 2024 et la date de la deuxième visite était le 13 mqrs 2024. 
 
 ## Titre de l'oeuvre
 Le titre de l'oeuvre est Kigo.
@@ -26,12 +27,9 @@ Le titre de l'oeuvre est Kigo.
 ![Media](Media/kigo_plantation.png) 
 
 - ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
-- 
-## Nom de l'artiste
-Le nom de l'artiste est 
 
 ## Année de réalisation 
-L'année de la réalisation est en 2023.
+L'année de la réalisation est en 2022.
 
 ## Description de l'oeuvre
 Kigo est un projet multimédia interactif où l’interacteur doit esquiver des obstacles virtuels qui se rapproche vers lui dans une thématique des quatre saisons de l’année. L’interacteur doit embarquer se déplacer dans une zone de jeu où une Kinect captera ses mouvements. L’avatar du jeu suivra les mouvements de l’interacteur. Les mouvements possibles sont d’aller de gauche à droite et l’accroupissement. L’esthétique du projet sera une projection d’un univers 3d de style néon rétro, qui ressemblera à une route où les obstacles s’avancent vers le joueur. Il y aura des arbres des deux côtés de la route et ceux-ci vont changer à chaque niveau puisque ces niveaux sont basés chacun sur une saison différente. Une musique synthwave jouera pour chaque niveau et sera accompagnée d’ambiances et des bruitages semblables à leur saisons. Le temps de cette expérience est démontré par le fait que chaque niveau se passe dans une différente saison, ce qui fait passer une année. Cette expérience a pour but d’amener de faire ressentir à l’interacteur, de l’engagement et de la détermination pour finir ces niveaux qui deviennent de plus en plus difficiles.
@@ -55,6 +53,7 @@ Le type d'installation est l'interactif.
   
 ![Media](Media/gameplay_kigo.png)
 - ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
+  
 ## Mise en espace
 Pour la configuration de l'espace, celle-ci se déroule sur un mur équipé d'un projecteur. La zone utilisée occupe la moitié verticale en face de l'écran du projet. Des haut-parleurs sont fixés à côté de la projection murale, un ordinateur et une console de jeu se trouvent à gauche de l'écran, et le Kinect V2 est placé au sol en face de l'écran.
 
@@ -62,6 +61,7 @@ Pour la configuration de l'espace, celle-ci se déroule sur un mur équipé d'un
 ![Media](Media/kigo_plantation.png)
 
 - ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
+  
 ## Composantes et techniques
 Les composantes et les techniques utilisées sont les haut-parleurs, le Kinect V2, la console de jeu, un projecteur, ainsi que des câbles et des fils électriques. En emballant soigneusement ces composantes, l'ensemble du dispositif pourra être transporté en toute sécurité outre-mer pour une exposition.
 
@@ -76,11 +76,13 @@ Pour exposer l'œuvre, un projecteur était suspendu au plafond à l'aide d'un s
 ![Media](Media/calbes_xlr.jpg)
 
 - ### Source: https://www.bing.com/images/search
+  
 - Projecteur
   
 ![Media](Media/projecteur_kigo.jpg)
 
 - ### Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
+  
 ## Expérience vécue
 Avant de commencer l'exploration, l'animateur a demandé qui voulait participer. Une fois qu'une personne se porte volontaire, elle doit se positionner entre les lignes délimitées et ne pas les dépasser pour pouvoir participer. Une fois le projet lancé, plusieurs obstacles apparaissaient à l'écran. Le participant devait les éviter et essayer d'accumuler le plus de points possible en évitant ces obstacles.
 
