@@ -32,9 +32,12 @@ Le type d'installation est interactif.
 ![Media](Media/devant_3_ecrans.jpg)
 Ma source: Ma photo
 
+## Fonction du dispositif multimédia
+Pour bien appréhender l'œuvre, il y a trois écrans, chacun proposant un effet différent. Il faut se positionner devant chaque écran pour observer son effet.
+
+![Media](Media/.jpg)
+Ma source: Ma photo
 ## Mise en espace
-
-
 
 
 ## Composantes et techniques
