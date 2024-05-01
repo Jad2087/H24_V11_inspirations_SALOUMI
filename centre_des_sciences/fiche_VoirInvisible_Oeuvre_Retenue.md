@@ -35,7 +35,7 @@ Ma source: Ma photo
 ## Fonction du dispositif multimédia
 Pour bien appréhender l'œuvre, il y a trois écrans, chacun proposant un effet différent. Il faut se positionner devant chaque écran pour observer son effet.
 
-![Media](Media/.jpg)
+![Media](Media/les_3_ecrans.jpg)
 Ma source: Ma photo
 ## Mise en espace
 
