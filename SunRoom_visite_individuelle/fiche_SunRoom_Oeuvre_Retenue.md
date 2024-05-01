@@ -8,16 +8,16 @@ Le nom de l'exposition est Age of Union.
 Le lieu de mise en exposition est au Centre Age of Union
 
 ## Type d'exposition
-Le type d'exposition est a l'interieur du Centre Age Of Union. 
+Le type d'exposition est à l'intérieur. 
 
 ## Date de la visite
-La date de la visite etait le ... .
+La date de la visite etait le 2 mars 2024.
 
 ## Titre de l'oeuvre
 Le titre de l'oeuvre est Sun Room.
 
 ## Nom de l'artiste
-Le nom de l'artiste est Dax Dasilva. 
+Les noms de l'artiste sony Adam Hummell et Kelly Nunes. 
 
 ## Année de réalisation 
 L'année de la réalisation est en 2021. 
