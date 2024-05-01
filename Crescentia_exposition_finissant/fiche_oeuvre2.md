@@ -35,6 +35,7 @@ Le lien est qu'il explore les répercussions de nos actions sur un système comp
 
 ![Media](Media/effet-papilllon_installation.jpg) 
 - ### Source: Ma photo
+
 ## Schéma de l'installation 
 - ### Effet-Papillon plantation
 ![Media](Media/effet-papillon_plantation.png) 
@@ -42,7 +43,7 @@ Le lien est qu'il explore les répercussions de nos actions sur un système comp
 - ### Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
 
 ## Avant l'expérimentation
-Pour ce projet, je ressens un sentiment de connexion avec la nature et d'apprendre davantage sur les processus de croissance des plantes. Une fois que je vais decouvrir les conséquences de mes actions sur la pomme finale, cela pourrais me faire réfléchir à l'impact de mes choix sur l'environnement.
+Pour ce projet, je ressens un sentiment de connexion avec la nature et d'apprendre davantage sur les processus de croissance des plantes. Une fois que je vais découvrir les conséquences de mes actions sur la pomme finale, cela pourrait me faire réfléchir à l'impact de mes choix sur l'environnement.
 
 ## Après l'expérimentation
 Après l'expérimentation, j'ai surtout apprécié les efforts que les étudiants ont déployés, car c'était un projet que j'ai trouvé très difficile par rapport aux autres, selon moi. J'ai aimé la conclusion, une fois que l'action a été choisie. Cela m'a fait réfléchir à mes choix concernant l'environnement.
@@ -77,7 +78,6 @@ Pour ce projet, je ressens de la curiosité et un peu de nervosité en explorant
 
 ## Lien avec le thème Crescentia 
 Le lien est que le projet Sonalux offre une expérience d'art génératif où le temps est changé.
-
 
 ## Intallation en cours dans le studio
 - ### Voici l'intallation en cours du projet 
